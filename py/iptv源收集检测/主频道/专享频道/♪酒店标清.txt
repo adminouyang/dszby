@@ -1,9 +1,4 @@
-CCTV3,http://218.92.37.174:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://218.92.37.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 
-内蒙卫视,http://218.92.37.174:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://218.92.37.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://218.92.37.174:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-南县新闻,http://183.215.134.239:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.3.138.25:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
