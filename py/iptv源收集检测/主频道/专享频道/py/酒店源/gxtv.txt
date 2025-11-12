@@ -1,19 +1,9 @@
-CCTV3,http://123.10.76.232:808/hls/3/index.m3u8
-CCTV4,http://123.10.76.232:808/hls/4/index.m3u8
-CCTV8,http://123.10.76.232:808/hls/8/index.m3u8
-CCTV10,http://123.10.76.232:808/hls/10/index.m3u8
 
-天津卫视,http://123.10.76.232:808/hls/38/index.m3u8
-宁夏卫视,http://123.10.76.232:808/hls/59/index.m3u8
-山东卫视,http://123.10.76.232:808/hls/39/index.m3u8
-甘肃卫视,http://123.10.76.232:808/hls/58/index.m3u8
-辽宁卫视,http://123.10.76.232:808/hls/48/index.m3u8
-陕西卫视,http://123.10.76.232:808/hls/57/index.m3u8
-影院,http://123.10.76.232:808/hls/98/index.m3u8
-早教,http://123.10.76.232:808/hls/92/index.m3u8
-河南河南戏曲,http://123.10.76.232:808/hls/27/index.m3u8
+湖北卫视,http://123.10.76.232:808/hls/43/index.m3u8
+青海卫视,http://123.10.76.232:808/hls/60/index.m3u8
+黑龙江卫视,http://123.10.76.232:808/hls/45/index.m3u8
+河南国际,http://123.10.76.232:808/hls/26/index.m3u8
+河南法治,http://123.10.76.232:808/hls/20/index.m3u8
 河南电视剧,http://123.10.76.232:808/hls/21/index.m3u8
-河南移动电视,http://123.10.76.232:808/hls/31/index.m3u8
-漯河综合,http://123.10.76.232:808/hls/73/index.m3u8
-爱大剧,http://123.10.76.232:808/hls/101/index.m3u8
-经典电影,http://123.10.76.232:808/hls/79/index.m3u8
+河南都市,http://123.10.76.232:808/hls/18/index.m3u8
+热播剧场,http://123.10.76.232:808/hls/82/index.m3u8
