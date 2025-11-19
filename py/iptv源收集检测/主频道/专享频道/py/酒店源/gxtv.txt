@@ -1,1 +1,23 @@
+CCTV8,http://123.10.76.186:808/hls/8/index.m3u8
+CCTV9,http://123.10.76.186:808/hls/9/index.m3u8
+CCTV14,http://123.10.76.186:808/hls/14/index.m3u8
 
+云南卫视,http://123.10.76.186:808/hls/46/index.m3u8
+安徽卫视,http://123.10.76.186:808/hls/40/index.m3u8
+广东卫视,http://123.10.76.186:808/hls/51/index.m3u8
+广西卫视,http://123.10.76.186:808/hls/52/index.m3u8
+河南卫视,http://123.10.76.186:808/hls/17/index.m3u8
+青海卫视,http://123.10.76.186:808/hls/60/index.m3u8
+CGTN,http://123.10.76.186:808/hls/16/index.m3u8
+IPTV相声,http://123.10.76.186:808/hls/81/index.m3u8
+军事,http://123.10.76.186:808/hls/93/index.m3u8
+新农村,http://123.10.76.186:808/hls/25/index.m3u8
+河南公共,http://123.10.76.186:808/hls/24/index.m3u8
+河南武术世界,http://123.10.76.186:808/hls/29/index.m3u8
+河南河南戏曲,http://123.10.76.186:808/hls/27/index.m3u8
+河南河南收藏天下,http://123.10.76.186:808/hls/28/index.m3u8
+河南法治,http://123.10.76.186:808/hls/20/index.m3u8
+河南电视剧,http://123.10.76.186:808/hls/21/index.m3u8
+漯河公共,http://123.10.76.186:808/hls/78/index.m3u8
+谍战剧场,http://123.10.76.186:808/hls/80/index.m3u8
+金鹰纪实,http://123.10.76.186:808/hls/72/index.m3u8
