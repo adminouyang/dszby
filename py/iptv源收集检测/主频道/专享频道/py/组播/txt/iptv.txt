@@ -1,4 +1,4 @@
-2025/11/20 15:10更新,#genre#
+2025/11/21 06:11更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -13017,6 +13017,26 @@ CCTV12,http://221.13.234.117:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&
 CCTV14,http://221.13.234.117:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://221.13.234.117:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://221.193.168.21:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://125.42.150.204:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://125.42.150.204:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://125.42.150.204:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://125.42.150.204:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://119.125.134.215:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://125.42.150.204:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://125.42.150.204:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://125.42.150.204:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://119.125.134.215:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://119.125.134.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://125.42.150.204:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://125.42.150.204:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://119.125.134.215:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://125.42.150.204:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://125.42.150.204:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://125.42.150.204:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://125.42.150.204:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://125.42.150.204:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云音乐,http://119.125.134.215:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场,http://119.125.134.215:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -22709,6 +22729,33 @@ SCTV康巴卫视,http://124.161.172.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 深圳卫视,http://36.40.236.48:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://125.42.150.68:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://221.13.234.117:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://119.125.134.215:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://125.42.150.204:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://119.125.134.215:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://119.125.134.215:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.42.150.204:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://125.42.150.204:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://125.42.150.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://125.42.150.204:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://119.125.134.215:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://125.42.150.204:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://119.125.134.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://125.42.150.204:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://119.125.134.215:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://125.42.150.204:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://119.125.134.215:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://125.42.150.204:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://125.42.150.204:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://125.42.150.204:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://125.42.150.204:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://125.42.150.204:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://119.125.134.215:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://119.125.134.215:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://119.125.134.215:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://119.125.134.215:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://119.125.134.215:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://119.125.134.215:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://119.125.134.215:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -29346,3 +29393,10 @@ CGTN,http://59.32.97.34:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authi
 都市,http://221.13.234.243:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 民生,http://221.13.234.117:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 都市,http://221.13.234.117:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,http://119.125.134.215:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://125.42.150.204:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://125.42.150.204:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+广东移动,http://119.125.134.215:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://119.125.134.215:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+茶,http://119.125.134.215:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://119.125.134.215:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
