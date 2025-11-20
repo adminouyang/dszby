@@ -1,6 +1,3 @@
-CCTV3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
-北京卫视,http://218.92.37.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://218.92.37.174:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://218.92.37.174:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://218.92.37.174:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
