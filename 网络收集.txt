@@ -153,11 +153,11 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-美亚电影国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
 频道,#genre#
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
@@ -645,6 +645,7 @@ AXN洋片,http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.24
 TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
 凤凰卫视中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰卫视资讯,http://bxtv.3a.ink/api.php?id=fhzx
+NOW爆谷星影,http://bxtv.3a.ink/api.php?id=xingying
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 无线翡翠,http://bxtv.3a.ink/api.php?id=fct
@@ -659,22 +660,12 @@ TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森幼幼,http://bxtv.3a.ink/api.php?id=dsyy
 纬来体育,http://bxtv.3a.ink/api.php?id=wlty
+NOW爆谷星影,https://bxtv.3a.ink/api.php?id=xingying
 
 频道,#genre#
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
-TVBPlus,http://vallest.uk/livehttpplay?channel_id=20122
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
-
-频道,#genre#
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=60
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=61
 Plus综合风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
-凤凰中文风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 无线翡翠风云,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
 无线一台风云,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 无线综台风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
@@ -752,18 +743,18 @@ Now星影国限,http://iptv.4666888.xyz/iptv.php?id=20088
 ELta影剧,http://iptv.4666888.xyz/iptv.php?id=20230
 
 频道,#genre#
-凤凰中文, https://migu.188766.xyz/?migutoken=69601892e97b095f69bfddf9263a86bd&id=fhzw&pp=1
-凤凰中文, https://migu.188766.xyz/?migutoken=78c6d20c2d896f46b72d8225bd6c90eb&id=hk_fhzw&type=dy
-凤凰资讯, https://migu.188766.xyz/?migutoken=6831b14f9a60ad7154ab2393bd6d855e&id=fhzx&pp=1
-凤凰资讯, https://migu.188766.xyz/?migutoken=d21402614aeac38b8cf3228fabb83438&id=hk_fhzx&type=dy
-凤凰香港, https://migu.188766.xyz/?migutoken=af6addb20513a9812da6df6fea1ae9df&id=fhhk&pp=1
-凤凰香港, https://migu.188766.xyz/?migutoken=5be7d979fe753b5663e49f30e778f723&id=hk_fhhk&type=dy
-翡翠台, https://migu.188766.xyz/?migutoken=1b58fd098337cc70204b27a4da4e6551&id=hk_fct&type=dy
-翡翠台4K, https://migu.188766.xyz/?migutoken=f07947c6b633411199d871db48be69c6&id=hk_fct4k&type=dy
-无线新闻, https://migu.188766.xyz/?migutoken=85f4648caf955f4c129d55f2be7fcba3&id=hk_wxxw&type=dy
-TVBPlus, https://migu.188766.xyz/?migutoken=c6797215f33bb1398582127833cf9d10&id=hk_tvbp&type=dy
-TVB星河, https://migu.188766.xyz/?migutoken=b21a98ea0a023740cc03897a599ca2ff&id=hk_tvbxh&type=dy
-TVB功夫, https://migu.188766.xyz/?migutoken=ac10e114061859b92edda8ec722e1a7e&id=hk_yzwx&type=dy
+凤凰中文, https://migu.188766.xyz/?migutoken=deaa141b63f4331584c8352aba9302dc&id=fhzw&pp=1
+凤凰中文, https://migu.188766.xyz/?migutoken=b716df1db25ab6d101cde2562b5fbe3c&id=hk_fhzw&type=dy
+凤凰资讯, https://migu.188766.xyz/?migutoken=9fa382c9a53884395d7882c4e4071486&id=fhzx&pp=1
+凤凰资讯, https://migu.188766.xyz/?migutoken=9cbec32370da8e9ca676df7ef0f6eabb&id=hk_fhzx&type=dy
+凤凰香港, https://migu.188766.xyz/?migutoken=edd0050d2eba7a157f2e444670b6c68f&id=fhhk&pp=1
+凤凰香港, https://migu.188766.xyz/?migutoken=db5dd73638c7fa6693e3f008017414d1&id=hk_fhhk&type=dy
+翡翠台, https://migu.188766.xyz/?migutoken=64f9e37ff4f9e199105b269f96774d0c&id=hk_fct&type=dy
+翡翠台4K, https://migu.188766.xyz/?migutoken=d4583a55d70b562953ed0c7467e142de&id=hk_fct4k&type=dy
+无线新闻, https://migu.188766.xyz/?migutoken=29e1b049fd60dc48cc6ad0111b48b7b4&id=hk_wxxw&type=dy
+TVBPlus, https://migu.188766.xyz/?migutoken=6ff40c896cac56b704c1aab91910d78c&id=hk_tvbp&type=dy
+TVB星河, https://migu.188766.xyz/?migutoken=3e5adb3b13abb7a42b7fc82287bfdc64&id=hk_tvbxh&type=dy
+TVB功夫, https://migu.188766.xyz/?migutoken=858abb42a355e79bff7292d67863d68e&id=hk_yzwx&type=dy
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 
 频道,#genre#
@@ -775,6 +766,7 @@ TVB功夫, https://migu.188766.xyz/?migutoken=ac10e114061859b92edda8ec722e1a7e&i
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8
 香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
@@ -844,24 +836,25 @@ TVBPlus,https://stream1.freetv.fun/tvb-j2-2.ctv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 中视,https://stream1.freetv.fun/zhong-shi-10.ctv
 中视,https://stream1.freetv.fun/zhong-shi-5.ctv
 中视,https://stream1.freetv.fun/zhong-shi-7.ctv
 中视,https://stream1.freetv.fun/zhong-shi-1.ctv
+中视经典,https://stream1.freetv.fun/zhong-shi-jing-dian-1.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
 台视,https://stream1.freetv.fun/tai-shi-1.ctv
 台视,https://stream1.freetv.fun/tai-shi-4.ctv
-台视,https://stream1.freetv.fun/tai-shi-8.ctv
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv
-民视,https://stream1.freetv.fun/min-shi-6.ctv
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.ctv
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-3.ctv
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-5.ctv
 华视,https://stream1.freetv.fun/hua-shi-1.ctv
+华视,https://stream1.freetv.fun/hua-shi-3.ctv
 华视,https://stream1.freetv.fun/hua-shi-4.ctv
 华视,https://stream1.freetv.fun/hua-shi-5.ctv
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8
@@ -871,7 +864,6 @@ TVBPlus,https://stream1.freetv.fun/tvb-j2-2.ctv
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
@@ -885,9 +877,7 @@ TVBPlus,https://stream1.freetv.fun/tvb-j2-2.ctv
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
-香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv
@@ -897,7 +887,6 @@ TVBPlus,https://stream1.freetv.fun/tvb-j2-2.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
 凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
 民视第一,https://stream1.freetv.fun/min-shi-di-yi-2.ctv
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
@@ -948,17 +937,16 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 天映CM+,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVBJ1源2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+TVB生活,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 
 频道,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
@@ -966,12 +954,11 @@ TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 翡翠台,http://r.jdshipin.com/qClQf
 TVB明珠,http://r.jdshipin.com/GeWKr?id=mzt720
 TVBPlus,http://r.jdshipin.com/Nr5jq
+凤凰卫视·中文,http://r.jdshipin.com/cCCzW
+凤凰卫视·资讯,http://r.jdshipin.com/0Rp07
+凤凰卫视·香港,http://r.jdshipin.com/yDoTN
 TVBPlus,http://r.jdshipin.com/ndGgS
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://r.jdshipin.com/yDoTN
-凤凰资讯,http://r.jdshipin.com/0Rp07
-无线新闻,http://r.jdshipin.com/CkuBd
-翡翠台,http://r.jdshipin.com/qrfbg
+TVB无线新闻,http://r.jdshipin.com/CkuBd
 翡翠台,http://r.jdshipin.com/62WM7
 
 频道,#genre#
@@ -987,7 +974,6 @@ TVB无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 
 频道,#genre#
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
@@ -1263,30 +1249,15 @@ AXN,https://hls-gateway.vpstv.net/streams/477730.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-AXNTaiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 EYETV戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
+TVBClassic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVBJade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-TVBS,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-八大戏剧GTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-八大娱乐GTVEntertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-大爱2,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
+大爱1,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 东森财经新闻ETTVBusiness,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-东森戏剧ETTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-翡翠台backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-公视2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-华丽台（WahLaiToi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-华视CTS,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-民视新闻台FTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-三立台湾SanliTaiwan,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-台视TTV,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-纬来综合,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+纬来日本,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-中天娱乐CTIEntertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
-中天综合CTIMetro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
+民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 
 频道,#genre#
 纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=d6d84c2a31e9094a5478d5d376177e7859090faf183ada5b1cf997ccd5d9df5a%3A1758241876
@@ -1303,51 +1274,56 @@ TVBS,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
-TVBPlus,https://live.catvod.com/iptv.php?id=vtjuqlzv
-翡翠台4K,https://live.catvod.com/iptv.php?id=hcwwqp8y
-龙华经典,https://live.catvod.com/iptv.php?id=xpqt533o
+TVBPlus,https://live.catvod.com/iptv.php?id=su16bbw0
+翡翠台4K,https://live.catvod.com/iptv.php?id=vb4yoye6
+龙华经典,https://live.catvod.com/iptv.php?id=vpz3owwy
+龙华卡通,https://live.catvod.com/iptv.php?id=h0hqy3q3
+龙华偶像,https://live.catvod.com/iptv.php?id=r30ar2zz
+龙华日韩,https://live.catvod.com/iptv.php?id=tbj9x9bv
+龙华洋片,https://live.catvod.com/iptv.php?id=h8hgqyzx
+小公视,https://live.catvod.com/live.php?id=pts3_twn&token=08d1434cf4bc1facfb5dbc9e358613d07833a41e66d6020f3c060cb7c089ea99%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+TVBS,https://live.catvod.com/live.php?id=tvbs&token=1bf26b3769b3ee31798ecc7a65ff3a513c6afe5bd23b517bcaf31213ff733779%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+台视,https://live.catvod.com/live.php?id=ttv_taiwan&token=71473d56cc69ac34bab8c52a779a50405018927b102ac043472e153f655fefd5%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+台视综合,https://live.catvod.com/live.php?id=ttvzhonghe&token=d65b9e1ec6e672d8c95d8862e1fb5ae121940a77acd83ad4bf320e1815709b83%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+中视,https://live.catvod.com/live.php?id=zhongshihd_twn&token=48fc4e6515c2858af6be5cbe87ee82f788c0bf7b2b5f0a625e11a532b5d7cb09%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+华视,https://live.catvod.com/live.php?id=ctshd_twn&token=e8cd7c9cfc6d701b1c181c88d17da11567d400a572e649197f3a38be744e2941%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+公视,https://live.catvod.com/live.php?id=ctv_taiwan&token=d8364ec0126293208f69e804967807984bacd23d70a2b2ea38f7d39cad2c56d8%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+天映,https://live.catvod.com/live.php?id=ctv18_twn&token=75197c016db15ff8de7d55d0093f0b9b2e4f5c5077bc73c3985a4120fb535176%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+八大娱乐,https://live.catvod.com/live.php?id=badaentertain&token=38550acacda7316196d92d543bf2c05de24e1793a16cd5cefb56021cc1b05314%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+寰宇财经,https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=5406e458a594546d72f9be4bd2ef098989b4a6b1ace04295a329d96145d5593c%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+公视台语,https://live.catvod.com/live.php?id=ctv2_twn&token=eef5c54504de8b2165c02e953c965d9a5414a7108484511b0b46fc6f93046a46%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+龙华偶像,https://live.catvod.com/live.php?id=lunghuaidol_twn&token=05fe3b0dd5afadbb8d1994495c1b7074b24485e5fa39ed82defb498f72d45e3a%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+AXN台湾,https://live.catvod.com/live.php?id=axn_twn&token=40212a49595ca8bec9e0f47d81fa4d28d2c1e928f1baf2a2e1bde3728c098ba6%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+靖天,https://live.catvod.com/live.php?id=jingtianintl_twn&token=04126044c497b3be10cdf8c4a6013c7a07c8db55f27288a0917a8ef9794d40ba%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+纬来日本,https://live.catvod.com/live.php?id=videolandjapan&token=69494d91b5d857f679419183addcf7b482269e222c026757407154256793d840%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=4621180ea0b2bf38b0ecf9e04ed8ca230f9507d50afc5a3c2006dcc30da6dd72%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+纬来综合,https://live.catvod.com/live.php?id=videolandzonghe&token=8c9abd55aff2b5abf9b60d048cffab52b03c1135a1c1598470b7c3d8b63c6e14%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=952da42ead7a9963a1aabe988efce34b0534d158856c7061541368f82f5be2b8%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+纬来精彩,https://live.catvod.com/live.php?id=videolandspecial_twn&token=553f7388339de815a22314565c3b379bb440cb1ae1a3e1d61fb7ba1e03bbc76d%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+纬来戏剧,https://live.catvod.com/live.php?id=videolandtv&token=7bfaf5c5265485d1dd561104e4344d6c6ba1172ad5864276fe29f764fb26a896%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=e12154394b43c0b46e181ccdf9bf4907cb2f142acb0e922dbcfbd2bfd3fbacb6%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=4360df1c0b592a6f8b1a4455c0b22755227dc2c2d7468d8e463a712912ae263c%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+龙华洋片,https://live.catvod.com/live.php?id=lunghuawestern_twn&token=74c6e31d40062ae925b08f1519713db3ca184cf573518f1b42b8c2b4323d59ed%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=df7f6a76ce17635c5bddd28c1664c99fdd17d320a1ad707865dbd6a8c7a8c892%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+EYETV戏剧,https://live.catvod.com/live.php?id=eyetvxiju_twn&token=6b8d3ea128493cd3d8b4f5c35cfcbeaf786d06f0fef1fac168feb730d055e866%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn&token=4ef9c5628fb3e30cab8ef8fc108ec8b91da87a74a659298f059da41da6105c2d%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+东森幼幼,https://live.catvod.com/live.php?id=yoyo_twn&token=64522c5eea1cc5ba2824edc98a88148360dedd3c5aef547526fb5d6fa02c2f9f%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+爱尔达影剧,https://live.catvod.com/live.php?id=eltayingju_twn&token=f227ddf896ec79ddf59b164d1f610743d74ac1940da0db96caedcf49ce0894f7%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+天映经典,https://live.catvod.com/live.php?id=Celestial2&token=66020859f7c3e792408ff5999e952cb9af2ff3f6a16c7d6c7c1d25d013b788ae%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+天映,https://live.catvod.com/live.php?id=Celestial&token=0753645b2528f9cab7b6d05aeb6e8c2261725a3e83620e2c615b996766e949fc%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+天映,https://live.catvod.com/live.php?id=Celestialindo&token=04585c76972e3e080fc369cc1b71d150c3d994a3fcf4e38eab5bd21efa2f0aeb%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+AXN,https://live.catvod.com/live.php?id=Axn&token=a971625bcd21ebe48eec88d0003ffa3926e71ec36cd87a6da193e0abf19c6ddc%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+华丽台,https://live.catvod.com/live.php?id=Wlt&token=0b75672e4120d79255b2ce280e2186ecca41b1c4dfcc0f0f8c1a386f6cfffd02%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+TVBJADE,https://live.catvod.com/live.php?id=Tvbjade&token=c245dcaece812b3a652c7323c23603ca4cf1fa038eeb14f7205a5b57eda4dad5%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+TVBSASIA,https://live.catvod.com/live.php?id=Tvbasia&token=245f60005766ce2895fac3b9ee6af8202cb0f56e9a3f7bebd8527dc1bd08a2fc%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+TVBENTERTAINMENTNEWS,https://live.catvod.com/live.php?id=Tvbentertainment&token=1936c81e77acb8a201c5b46d07a84161ca88106d6a893532a9ed1c0040cc441d%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+TVBclassic,https://live.catvod.com/live.php?id=Tvbclassic&token=262f402d565c431cea867e1d1a1ce39349b429528faf6727de1cb43ab9cdfb4f%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
+BBCWorldNews,https://live.catvod.com/live.php?id=bbcworldnews_antik&token=5c9b01569951d342a223823320c659819053965c0f19ba715927ee09a32bbf5d%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 龙华卡通,https://live.catvod.com/iptv.php?id=e1tep4h6
 龙华偶像,https://live.catvod.com/iptv.php?id=ao31dwp7
-龙华日韩,https://live.catvod.com/iptv.php?id=iddlkjb5
-龙华洋片,https://live.catvod.com/iptv.php?id=v92kb352
-小公视,https://live.catvod.com/live.php?id=pts3_twn&token=970920d2d371d9cfd5373d0d9854bb770dfefb17117074fca8ba23e0b8868f6c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-TVBS,https://live.catvod.com/live.php?id=tvbs&token=84f58594f435635728b73a841d2bb8cd9d072aea0c2d1d5836e49b925f0748ef%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-台视,https://live.catvod.com/live.php?id=ttv_taiwan&token=6236210b1a9c38480f1e13beeeca1c460feaae4f40a1a6122d3caebcdb35dd8c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-台视综合,https://live.catvod.com/live.php?id=ttvzhonghe&token=4dfc6d072c55dcf9174d0e5aa351fec95793ed6d86b45a1ea2539016ff9669df%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-中视,https://live.catvod.com/live.php?id=zhongshihd_twn&token=f2d25c84b4501f54ddc1fecfcb512a73a0c3eaf454a1185630a1d0183f9cac70%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-华视,https://live.catvod.com/live.php?id=ctshd_twn&token=0a3416348777dac909954a80a688df7b6b1be5c7f7b7268486d1197dcae5fb01%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-公视,https://live.catvod.com/live.php?id=ctv_taiwan&token=73f93daabaa0185264869ad73f992fb9337b45fc8a368544c6a5e9aef211c6cb%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-天映,https://live.catvod.com/live.php?id=ctv18_twn&token=fda865e079a86d1f18eb98c686a36c04f7b3a5851a2b2d7a347c37856fb0ffa2%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-八大娱乐,https://live.catvod.com/live.php?id=badaentertain&token=b4de7fc55144a040b14387384f927310e3a411a00f8ad1667ee0d8718d094c20%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-寰宇财经,https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=53ff49a6c3c8b67c48e96070bae4bb513289448dabbd7d04f9ed802f35d4c9af%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-公视台语,https://live.catvod.com/live.php?id=ctv2_twn&token=15cecd22d237ff14d0207c312e0701f00ab06bb4e9e20c6f54eade9711a7b62c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-龙华偶像,https://live.catvod.com/live.php?id=lunghuaidol_twn&token=3cd34cbf50b2c72d503592419dfa5b169c9a34fcfeaafea5d4acbc05547377e1%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-AXN台湾,https://live.catvod.com/live.php?id=axn_twn&token=cfbcc09a542cf438f60454025d3da82ff1f604c4040dea2d64ed8165da2e4634%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-靖天,https://live.catvod.com/live.php?id=jingtianintl_twn&token=78f72e213d1dc4bb41b1d1fe11b3dafe84baa2f838739b8ba8c0da7a95d169e4%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-纬来日本,https://live.catvod.com/live.php?id=videolandjapan&token=05d46728efdb64f6cdb39a9c95b2c822bc53a9d0e830407e43f41b34d33502a2%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=5f295e17f3ac939cbc0a3e2f31c663d69689c9286e6a7e05c38bef4757046ed3%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-纬来综合,https://live.catvod.com/live.php?id=videolandzonghe&token=e6285ebc35e4b4c4c63df0fa528e58cab7e6affb1875c378b63beab5f0739d75%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=0839241f9b0d4d9dee20c0dfbc4c274654cb14726edef1e3b49cf18aaa4532e6%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-纬来精彩,https://live.catvod.com/live.php?id=videolandspecial_twn&token=2ca2a647bb8d9bd832f597aec048b348f28020fe1edb22739dfdf82f1dac933b%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-纬来戏剧,https://live.catvod.com/live.php?id=videolandtv&token=66351ecf900e6a050e407c55911b20b7c950486485db712bf7e64136733bf99e%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-大爱2,https://live.catvod.com/live.php?id=daai2_twn&token=a7f9674f6694fc65fde56fd3ddfa659a19d2c7a72de5bc9f88998367b337382d%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=7cdbaa462fd81f4fca10eabe1bd7a776d5612cb2393f2d359042d97040ec5eb3%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-龙华洋片,https://live.catvod.com/live.php?id=lunghuawestern_twn&token=9d99412a19212270c07126b1e3e9c985bd33d14c947b9f2e6541efbd16f4dbc8%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=d89176eb94dc6bd435ab62d824f230dcd7cec566efb6687244e14c720de8b5a1%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-EYETV戏剧,https://live.catvod.com/live.php?id=eyetvxiju_twn&token=17dda14f7732efa6eb7deb1cce6deaac16992ad6e9274f8c074d69c32a242b45%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn&token=52b9cd8d8685addb90f625e1f5dd350fb2ba895c996e903f3fb594ea2e617803%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-东森幼幼,https://live.catvod.com/live.php?id=yoyo_twn&token=ac0581ddbb9e2c5f734978cdc413e7c5521e6f9dfa519d3e5338eda6876aab12%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-爱尔达影剧,https://live.catvod.com/live.php?id=eltayingju_twn&token=7337854b51b4b730f8d75fd3f0e8545c9adeb8a414690d44a71025fa9cdb10a9%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=ea0d62ba4654b1d6c691a13536553899eb9946d387f6b71c242d637ed45c953c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-天映,https://live.catvod.com/live.php?id=Celestial&token=21d72e61c6bb17fb8bacfde2a637bfd504ebaa5111981149da933ee087d2567c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-天映,https://live.catvod.com/live.php?id=Celestialindo&token=31b6840776c8b608a68445dc87f1226215ec8f391b186870ffb5625b162dc06d%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-AXN,https://live.catvod.com/live.php?id=Axn&token=48e76ed8fa07cf6b870472eff6e737c585e6b27cada271c85415e933684dbb3f%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-华丽台,https://live.catvod.com/live.php?id=Wlt&token=686f236866c6fa98ad66e30b41ba5775639a5f1a0ab593f266136ea61a54327c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-TVBJADE,https://live.catvod.com/live.php?id=Tvbjade&token=78dcd8ea022293179f1b0ad93b1c41ad2b735399301972592e6b6f500ce83d97%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-TVBSASIA,https://live.catvod.com/live.php?id=Tvbasia&token=ad7d52635434d1a82feeda789d23aeb81f01781476ce5237ff8d078a75a4bbbf%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-TVBENTERTAINMENTNEWS,https://live.catvod.com/live.php?id=Tvbentertainment&token=87ad33f594b6430e016e2d4abce26cb80e4a6ca28876f6f101bf9f1e9c30875c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-TVBclassic,https://live.catvod.com/live.php?id=Tvbclassic&token=52def8b3a18769f030f169e7868c317a64565c6c05a25c03d4a80d11c1487102%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
-TVMU,https://live.catvod.com/live.php?id=TVMU_eko&token=02385cef5c5cc7464aecbb1fc80201b4547b67311905e5a5b9a195d5daf168e6%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D
+龙华经典,https://live.catvod.com/iptv.php?id=xpqt533o
+TVB亚洲武侠,https://live.catvod.com/iptv.php?id=8iih5seb
+TVBlus,https://live.catvod.com/iptv.php?id=vtjuqlzv
 
 频道,#genre#
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
@@ -1406,26 +1382,26 @@ TVBS新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 频道,#genre#
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
-中视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv040/index.m3u8
-中视,https://4gtv.dxjc.pp.ua/4gtv-4gtv040/index.m3u8
 中视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv040/index.m3u8
+中视,https://4gtv.dxjc.pp.ua/4gtv-4gtv040/index.m3u8
+中视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv040/index.m3u8
+华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
-华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
-TVBS精采,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 TVBS精采,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
+TVBS精采,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 TVBS台剧,https://4gtv.dxjc.pp.ua/4gtv-live088/index.m3u8
 TVBS综艺,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 寰宇新闻台湾,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv156/index.m3u8
-寰宇新闻台湾,https://4gtv.dxjc.pp.ua/4gtv-4gtv156/index.m3u8
 寰宇新闻台湾,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv156/index.m3u8
+寰宇新闻台湾,https://4gtv.dxjc.pp.ua/4gtv-4gtv156/index.m3u8
 台视财经,https://4gtv.dxjc.pp.ua/4gtv-4gtv056/index.m3u8
 影迷数位电影,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
 影迷数位电影,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
-影迷数位纪实,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 影迷数位纪实,https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
-台湾戏剧,https://4gtv.dxjc.pp.ua/litv-longturn22/index.m3u8
+影迷数位纪实,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/li-litv-longturn22/index.m3u8
+台湾戏剧,https://4gtv.dxjc.pp.ua/litv-longturn22/index.m3u8
 猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
 猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/4gtv-4gtv006/index.m3u8
 
@@ -1458,10 +1434,9 @@ AXN电影,http://tl.061833.xyz/tl/axn
 龙华经典,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
 龙华洋片,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
 台湾戏剧,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
-寰宇新闻,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+华视新闻,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
 龙华电影,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
 龙华戏剧,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
-台视新闻,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
 中天新闻,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
 
 频道,#genre#
@@ -1476,9 +1451,9 @@ AXN电影,http://tl.061833.xyz/tl/axn
 龙华经典,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn21
 龙华洋片,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn02
 台湾戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn22
-华视新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv052
-寰宇新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn14
-台视新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
+龙华电影,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
+龙华戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
+中天新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 
 频道,#genre#
 台视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
@@ -1534,19 +1509,19 @@ TVBS新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 中天亚洲,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
 
 频道,#genre#
-中视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv040/index.m3u8?proxy=true
-华视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv041/index.m3u8?proxy=true
-华视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv041/index.m3u8?proxy=true
+中视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv040/index.m3u8?proxy=true
 华视,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv041/index.m3u8?proxy=true
-TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv067/index.m3u8?proxy=true
+华视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv041/index.m3u8?proxy=true
+华视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv041/index.m3u8?proxy=true
 TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv067/index.m3u8?proxy=true
 TVBS台剧,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live088/index.m3u8?proxy=true
 TVBS综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live087/index.m3u8?proxy=true
-寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv156/index.m3u8?proxy=true
-寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv156/index.m3u8?proxy=true
 台视财经,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv056/index.m3u8?proxy=true
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
@@ -1554,10 +1529,19 @@ TVBS综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live087/index.m3u8
 影迷数位电影,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv011/index.m3u8?proxy=true
 影迷数位纪实,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-ftv15/index.m3u8?proxy=true
 影迷数位纪实,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-ftv15/index.m3u8?proxy=true
-台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-longturn22/index.m3u8?proxy=true
 台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-longturn22/index.m3u8?proxy=true
-猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv006/index.m3u8?proxy=true
+台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-longturn22/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv006/index.m3u8?proxy=true
+猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv006/index.m3u8?proxy=true
+
+频道,#genre#
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
+无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
+TVBPlus,http://vallest.uk/livehttpplay?channel_id=20122
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
 
 频道,#genre#
 凤凰中文限推,http://play-ali.cloudvdn.com/live/00987tp3309.flv
@@ -1581,6 +1565,8 @@ Now星影限推,http://play-ali.cloudvdn.com/live/00987tp0039.flv
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 频道,#genre#
@@ -1925,38 +1911,6 @@ EYE-戏剧,https://tv543.cc/Smart.php?id=eyetvxiju_twn
 经典电影台2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 
 频道,#genre#
-AXNTaiwan,http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-TVBS欢乐台备份,http://smart.cityq.xyz:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-八大第一GTVFirst,http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-八大戏剧GTVDrama,http://smart.cityq.xyz:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-大爱1,http://smart.cityq.xyz:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
-东森电影ETTVMovie,http://smart.cityq.xyz:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-靖天卡通,http://smart.cityq.xyz:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-龙华经典,http://smart.cityq.xyz:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-龙华偶像,http://smart.cityq.xyz:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-龙祥时代,http://smart.cityq.xyz:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-中天综合CTIMetro,http://smart.cityq.xyz:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-
-频道,#genre#
-ELTA影剧,http://orz.jkun.cf/smt.php?id=eltadrama_twn
-EYE戏剧,http://orz.jkun.cf/smt.php?id=eyetvxiju_twn
-TVBPlus,http://orz.jkun.cf/smt.php?id=j2_twn
-TVBS,http://orz.jkun.cf/smt.php?id=tvbs
-八大第1,http://orz.jkun.cf/smt.php?id=badafirst
-大爱,http://orz.jkun.cf/smt.php?id=daai_twn
-东森洋片,http://orz.jkun.cf/smt.php?id=ettvwestern
-公视,http://orz.jkun.cf/smt.php?id=ctv_taiwan
-靖天卡通,http://orz.jkun.cf/smt.php?id=jingtiancartoon_twn
-靖天台,http://orz.jkun.cf/smt.php?id=jingtianintl_twn
-龙华偶像,http://orz.jkun.cf/smt.php?id=lunghuaidol_twn
-龙华洋片,http://orz.jkun.cf/smt.php?id=lunghuawestern_twn
-龙祥时代,http://orz.jkun.cf/smt.php?id=cb7a1fec69
-龙祥时代,http://orz.jkun.cf/smt.php?id=lungxiangtime_twn
-天映,http://orz.jkun.cf/smt.php?id=Celestial
-纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
-纬来日本,http://orz.jkun.cf/smt.php?id=videolandjapan
-
-频道,#genre#
 TVB翡翠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9478&tk=97475bb89d45
 TVB明珠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5300&tk=97475bb89d45
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
@@ -2166,13 +2120,6 @@ AMC最爱电影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv017
 大爱电视「4gTV」,https://tv.iill.top/4gtv/4gtv-live007
 大爱电视2「4gTV」,https://tv.iill.top/4gtv/4gtv-live106
 三立新闻,https://tv.iill.top/4gtv/229
-
-频道,#genre#
-「电视伴音」凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-「电视伴音」凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
 频道,#genre#
 凤凰资讯,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
