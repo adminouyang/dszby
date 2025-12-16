@@ -1,4 +1,5 @@
 
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.92.37.174:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://218.92.37.174:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://218.92.37.174:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://218.92.37.174:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
