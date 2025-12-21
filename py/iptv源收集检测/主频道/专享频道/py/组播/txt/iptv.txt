@@ -1,4 +1,4 @@
-2025/12/21 06:10更新,#genre#
+2025/12/21 15:18更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -14688,6 +14688,12 @@ CCTV9,http://221.13.235.104:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&a
 CCTV11,http://221.13.235.104:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://119.125.134.130:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://119.125.134.130:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://119.125.134.130:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://119.125.134.130:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://221.193.168.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://221.193.168.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://221.193.168.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://221.193.168.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -25474,6 +25480,9 @@ SCTV康巴卫视,http://124.161.172.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 广东卫视,http://119.125.134.130:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://221.13.235.104:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://119.125.134.130:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://221.13.235.104:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://119.125.134.130:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://119.125.134.130:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -33305,3 +33314,5 @@ CETV4,http://119.125.134.130:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&
 公共,http://221.13.235.53:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://221.13.235.75:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 都市,http://221.13.235.53:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://221.13.235.53:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://119.125.134.130:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
