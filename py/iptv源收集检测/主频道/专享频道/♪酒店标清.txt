@@ -1,1 +1,4 @@
+CCTV1,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
+北京卫视,http://218.92.37.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://218.92.37.174:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0
