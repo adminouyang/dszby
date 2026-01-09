@@ -1,4 +1,4 @@
-2026/01/09 06:17更新,#genre#
+2026/01/09 15:24更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -15643,6 +15643,11 @@ CCTV15,http://119.129.172.249:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 CCTV1,http://119.129.173.56:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://119.129.173.56:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://119.129.173.56:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://221.13.234.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://119.129.172.249:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://119.129.172.249:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://119.129.172.249:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://119.129.172.249:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -27183,6 +27188,7 @@ SCTV康巴卫视,http://124.161.172.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 湖北卫视,http://119.129.173.56:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://119.129.172.249:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://119.129.173.56:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://119.125.134.229:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -35705,3 +35711,7 @@ CETV早期教育,http://59.32.97.216:9901/tsfile/live/1038_1.m3u8?key=txiptv&pla
 广东公共,http://119.129.172.249:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://119.129.173.56:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV热播剧场,http://119.129.173.56:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+公共,http://221.13.235.26:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+国学,http://119.125.134.229:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://119.125.134.229:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://119.129.172.249:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
