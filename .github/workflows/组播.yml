@@ -1,8 +1,8 @@
 name: 组播
 
 on:
-  schedule:
-    - cron: '30 3,7,12,22 * * *'  # 每天下午运行
+  # schedule:
+  #   - cron: '30 3,7,12,22 * * *'  # 每天下午运行
   workflow_dispatch:  # 允许手动触发
 
 permissions:
