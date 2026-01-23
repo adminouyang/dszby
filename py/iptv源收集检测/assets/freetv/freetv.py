@@ -81,6 +81,7 @@ def get_speed_score(url, group_name):
         response = urllib.request.urlopen(req, timeout=CHECK_TIMEOUT)
         
         ttfb = time.time() - start_time
+        ttfb_ms = ttfb * 1000  # 转换为毫秒
         
         if is_deep:
             downloaded = 0
@@ -100,18 +101,28 @@ def get_speed_score(url, group_name):
             
             # 计算速度 (KB/s)
             speed = (downloaded / 1024) / (duration + 0.001)
+            
+            # 打印详细测速信息
+            print(f"  ✓ {url[:50]:<50} | TTFB: {ttfb_ms:5.1f}ms | 下载: {downloaded/1024:6.1f}KB | 耗时: {duration:4.2f}s | 速度: {speed:7.1f}KB/s")
             return speed
         else:
             # 对于非深度测速，返回一个基于TTFB的分数
-            return 1000.0 / (ttfb + 0.001)  # 转换为速度近似值
+            speed = 1000.0 / (ttfb + 0.001)  # 转换为速度近似值
+            print(f"  ✓ {url[:50]:<50} | TTFB: {ttfb_ms:5.1f}ms | 速度: {speed:7.1f}KB/s")
+            return speed
             
+    except urllib.error.URLError as e:
+        print(f"  ✗ {url[:50]:<50} | 连接错误: {e.reason}")
+        return 0.0
     except Exception as e:
-        return 0.0  # 返回0表示测速失败
+        print(f"  ✗ {url[:50]:<50} | 测速失败: {str(e)[:30]}")
+        return 0.0
 
 # 批量速度测试函数
 def batch_speed_test(channel_list, group_name="freetv"):
     """批量测试频道速度"""
     print(f"开始对 {len(channel_list)} 个频道进行速度测试...")
+    print("-" * 100)
     
     fast_channels = []
     total_channels = len(channel_list)
@@ -121,6 +132,9 @@ def batch_speed_test(channel_list, group_name="freetv"):
         try:
             channel_name, channel_url = channel_info
             
+            # 打印当前测试的频道名称
+            print(f"测试: {channel_name[:30]:<30} | {channel_url[:50]:<50}")
+            
             # 进行测速
             speed = get_speed_score(channel_url, group_name)
             
@@ -128,10 +142,16 @@ def batch_speed_test(channel_list, group_name="freetv"):
             speed_results[channel_name] = speed
             
             if speed >= SPEED_THRESHOLD:
+                # 记录通过的频道
+                result_str = f"  ✅ 通过 | 速度: {speed:7.1f}KB/s"
+                print(result_str)
                 return channel_info, speed, True
             else:
+                result_str = f"  ❌ 失败 | 速度: {speed:7.1f}KB/s"
+                print(result_str)
                 return channel_info, speed, False
         except Exception as e:
+            print(f"  ⚠ 异常: {str(e)[:30]}")
             speed_results[channel_name] = 0
             return channel_info, 0, False
     
@@ -153,14 +173,21 @@ def batch_speed_test(channel_list, group_name="freetv"):
                     # 保存通过的频道
                     fast_channels.append(f"{channel_name},{channel_url}")
                 
-                # 显示进度
+                # 每完成10个或全部完成时显示总进度
                 if completed % 10 == 0 or completed == total_channels:
-                    print(f"进度: {completed}/{total_channels} 个频道已完成测试，通过: {len(fast_channels)} 个")
+                    print(f"\n进度: {completed}/{total_channels} 个频道已完成测试，通过: {len(fast_channels)} 个")
+                    print("-" * 100)
                     
             except Exception as e:
-                print(f"测试出错: {e}")
+                print(f"\n测试出错: {e}")
     
-    print(f"速度测试完成，共有 {len(fast_channels)} 个频道速度超过 {SPEED_THRESHOLD} KB/s")
+    print("\n" + "=" * 100)
+    print(f"速度测试完成!")
+    print(f"总计测试: {total_channels} 个频道")
+    print(f"通过测试: {len(fast_channels)} 个 (速度 ≥ {SPEED_THRESHOLD} KB/s)")
+    print(f"通过率: {(len(fast_channels)/total_channels*100 if total_channels > 0 else 0):.1f}%")
+    print("=" * 100)
+    
     return fast_channels
 
 def process_url(url):
@@ -283,6 +310,22 @@ try:
             for i, (name, speed) in enumerate(sorted_speeds[:100], 1):
                 status = "✓" if speed >= SPEED_THRESHOLD else "✗"
                 f.write(f"{i:3d}. [{status}] {name}: {speed:.2f} KB/s\n")
+            
+            # 添加详细的速度统计
+            f.write(f"\n详细速度统计:\n")
+            f.write(f"- 平均速度: {sum(speed_results.values())/len(speed_results):.2f} KB/s\n")
+            
+            # 统计不同速度区间的频道数量
+            speed_ranges = [
+                (0, 100, "0-100 KB/s"),
+                (100, 300, "100-300 KB/s"),
+                (300, 1000, "300-1000 KB/s"),
+                (1000, float('inf'), "1000+ KB/s")
+            ]
+            
+            for min_speed, max_speed, label in speed_ranges:
+                count = len([s for s in speed_results.values() if min_speed <= s < max_speed])
+                f.write(f"- {label}: {count} 个频道\n")
                 
         print(f"速度统计已保存到: {speed_stats_file}")
 
@@ -309,14 +352,25 @@ for line in fast_channels:
 version_line = f"更新时间,{formatted_time}"
 
 # freetv_cctv
-output_lines_cctv = ["#genre#"] + [version_line] + [''] + \
-                   ["freetv_cctv,#genre#"] + sorted(set(freetv_cctv_lines))
+if freetv_cctv_lines:
+    output_lines_cctv = ["#genre#"] + [version_line] + [''] + \
+                       ["freetv_cctv,#genre#"] + sorted(set(freetv_cctv_lines))
+else:
+    output_lines_cctv = ["#genre#", version_line, '', "freetv_cctv,#genre#"]
+
 # freetv_ws
-output_lines_ws = ["#genre#"] + [version_line] + [''] + \
-                   ["freetv_ws,#genre#"] + sorted(set(freetv_ws_lines))
+if freetv_ws_lines:
+    output_lines_ws = ["#genre#"] + [version_line] + [''] + \
+                     ["freetv_ws,#genre#"] + sorted(set(freetv_ws_lines))
+else:
+    output_lines_ws = ["#genre#", version_line, '', "freetv_ws,#genre#"]
+
 # freetv_other
-output_lines_other = ["#genre#"] + [version_line] + [''] + \
-                   ["freetv_other,#genre#"] + sorted(set(freetv_other_lines))
+if freetv_other_lines:
+    output_lines_other = ["#genre#"] + [version_line] + [''] + \
+                        ["freetv_other,#genre#"] + sorted(set(freetv_other_lines))
+else:
+    output_lines_other = ["#genre#", version_line, '', "freetv_other,#genre#"]
 
 # 再次写入文件：分开
 output_file_cctv = "py/iptv源收集检测/assets/freetv/freetv_output_cctv.txt"
@@ -342,9 +396,11 @@ try:
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
 
-print("\n=== 处理完成 ===")
+print("\n" + "=" * 100)
+print("=== 处理完成 ===")
 print(f"总计获取频道: {len(freetv_lines)}")
 print(f"通过测速的频道: {len(fast_channels)}")
 print(f"CCTV频道: {len(freetv_cctv_lines)}")
 print(f"卫视频道: {len(freetv_ws_lines)}")
 print(f"其他频道: {len(freetv_other_lines)}")
+print("=" * 100)
