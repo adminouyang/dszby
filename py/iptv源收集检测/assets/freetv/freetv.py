@@ -1,15 +1,9 @@
 import urllib.request
-
 import ssl
 from urllib.parse import urlparse
-import re
-import os
 from datetime import datetime, timedelta, timezone
-import threading
-import time
-import socket
 import concurrent.futures
-from queue import Queue
+import time
 
 # 定义
 freetv_lines = []
@@ -28,7 +22,6 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 # 存储测速结果
 speed_results = {}
-speed_lock = threading.Lock()
 
 #读取修改频道名称方法
 def load_modify_name(filename):
@@ -72,41 +65,48 @@ def read_txt_to_array(file_name):
 def process_channel_line(line):
     if "#genre#" not in line and "," in line and "://" in line:
         channel_name, channel_address = line.split(',', 1)
-        # 这里不再添加$channel_name，因为可能会影响URL解析
         freetv_lines.append(f"{channel_name},{channel_address}".strip())
 
-def get_speed_score(c_obj, group_name):
-    """深度测速逻辑"""
-    url = c_obj["url"]
+def get_speed_score(url, group_name):
+    """深度测速逻辑 - 使用urllib替代requests"""
     is_deep = group_name in DEEP_SPEED_GROUPS
+    
     try:
         start_time = time.time()
-        # 增加 verify=False 防止 SSL 证书错误导致测速失败
-        with requests.get(url, timeout=CHECK_TIMEOUT, stream=True, headers=HEADERS, verify=False) as res:
-            if res.status_code == 200:
-                ttfb = time.time() - start_time
-                if is_deep:
-                    downloaded = 0
-                    test_start = time.time()
-                    for chunk in res.iter_content(chunk_size=1024 * 64):
-                        downloaded += len(chunk)
-                        if downloaded >= 1024 * 1024 or (time.time() - test_start) > 1.2:
-                            break
-                    duration = time.time() - test_start
-                    if duration <= 0:
-                        return None
-                    
-                    # 计算速度 (KB/s)
-                    speed = (downloaded / 1024) / (duration + 0.001)
-                    
-                    # 返回速度值
-                    return speed
-                else:
-                    # 对于非深度测速，返回一个基于TTFB的分数
-                    return 1000.0 / (ttfb + 0.001)  # 转换为速度近似值
-    except:
-        pass
-    return 0.0  # 返回0表示测速失败
+        
+        # 创建请求对象
+        req = urllib.request.Request(url, headers=HEADERS)
+        
+        # 打开URL连接
+        response = urllib.request.urlopen(req, timeout=CHECK_TIMEOUT)
+        
+        ttfb = time.time() - start_time
+        
+        if is_deep:
+            downloaded = 0
+            test_start = time.time()
+            
+            # 读取数据块直到达到1MB或超时
+            while downloaded < 1024 * 1024 and (time.time() - test_start) <= 1.2:
+                chunk = response.read(1024 * 64)  # 读取64KB块
+                if not chunk:
+                    break
+                downloaded += len(chunk)
+            
+            duration = time.time() - test_start
+            
+            if duration <= 0:
+                return 0.0
+            
+            # 计算速度 (KB/s)
+            speed = (downloaded / 1024) / (duration + 0.001)
+            return speed
+        else:
+            # 对于非深度测速，返回一个基于TTFB的分数
+            return 1000.0 / (ttfb + 0.001)  # 转换为速度近似值
+            
+    except Exception as e:
+        return 0.0  # 返回0表示测速失败
 
 # 批量速度测试函数
 def batch_speed_test(channel_list, group_name="freetv"):
@@ -114,29 +114,25 @@ def batch_speed_test(channel_list, group_name="freetv"):
     print(f"开始对 {len(channel_list)} 个频道进行速度测试...")
     
     fast_channels = []
-    failed_channels = []
+    total_channels = len(channel_list)
     
     def test_single_channel(channel_info):
         """测试单个频道"""
         try:
             channel_name, channel_url = channel_info
-            # 准备测速对象
-            c_obj = {"url": channel_url}
             
             # 进行测速
-            speed = get_speed_score(c_obj, group_name)
+            speed = get_speed_score(channel_url, group_name)
             
-            if speed is not None and speed >= SPEED_THRESHOLD:
-                with speed_lock:
-                    speed_results[channel_name] = speed
+            # 记录结果
+            speed_results[channel_name] = speed
+            
+            if speed >= SPEED_THRESHOLD:
                 return channel_info, speed, True
             else:
-                with speed_lock:
-                    speed_results[channel_name] = 0
-                return channel_info, speed or 0, False
+                return channel_info, speed, False
         except Exception as e:
-            with speed_lock:
-                speed_results[channel_name] = 0
+            speed_results[channel_name] = 0
             return channel_info, 0, False
     
     # 使用线程池进行并发测试
@@ -156,12 +152,10 @@ def batch_speed_test(channel_list, group_name="freetv"):
                 if passed:
                     # 保存通过的频道
                     fast_channels.append(f"{channel_name},{channel_url}")
-                else:
-                    failed_channels.append(channel_name)
                 
                 # 显示进度
-                if completed % 10 == 0 or completed == len(channel_list):
-                    print(f"进度: {completed}/{len(channel_list)} 个频道已完成测试，通过: {len(fast_channels)} 个")
+                if completed % 10 == 0 or completed == total_channels:
+                    print(f"进度: {completed}/{total_channels} 个频道已完成测试，通过: {len(fast_channels)} 个")
                     
             except Exception as e:
                 print(f"测试出错: {e}")
