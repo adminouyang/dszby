@@ -1,4 +1,25 @@
 #genre#
-更新时间,20260123 21:47:57
+更新时间,20260123 21:50:37
 
 freetv_other,#genre#
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.php
+tvb星河,https://t.freetv.fun/live/tvbxing-he-1.php
+东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
+东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.php
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.php
+嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-1.php
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.php
+广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-1.php
+广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-7.php
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-2.php
+广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-7.php
+广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-6.php
+广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-19.m3u8
+明珠,https://t.freetv.fun/live/ming-zhu-6.php
+电影,https://t.freetv.fun/live/dian-ying-1.php
+电影,https://t.freetv.fun/live/dian-ying-7.m3u8
+美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-4.php
+美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying.php
+翡翠,https://t.freetv.fun/live/fei-cui-1.php
+華視,https://t.freetv.fun/live/hua-shi-2.ts
