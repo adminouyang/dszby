@@ -89,7 +89,7 @@ def get_speed_score(url, group_name):
             
             # 读取数据块直到达到1MB或超时
             while downloaded < 1024 * 1024 and (time.time() - test_start) <= 1.2:
-                chunk = response.read(1024 * 64)  # 读取64KB块
+                chunk = response.read(1024 * 1000)  # 读取64KB块
                 if not chunk:
                     break
                 downloaded += len(chunk)
