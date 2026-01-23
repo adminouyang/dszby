@@ -13,7 +13,7 @@ from queue import Queue
 freetv_lines = []
 
 # 速度测试相关全局变量
-speed_threshold = 300  # 300KB/s
+speed_threshold = 100  # 300KB/s
 timeout = 5  # 超时时间（秒）
 max_workers = 20  # 最大并发线程数
 tested_channels = {}  # 存储已测试的频道速度
