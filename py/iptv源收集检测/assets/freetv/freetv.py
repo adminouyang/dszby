@@ -1,5 +1,5 @@
 import urllib.request
-import requests
+
 import ssl
 from urllib.parse import urlparse
 import re
