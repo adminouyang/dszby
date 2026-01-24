@@ -20,9 +20,9 @@ CCTV14,[BD]cctv（hd）14,[BD]cctv14,[BD]cctv-14,[BD]cctv-14 hd,[BD]cctv-14 少�
 CCTV15,[BD]cctv（hd）15,[BD]cctv15,[BD]cctv-15,[BD]cctv-15 hd,[BD]cctv-15hd,[BD]cctv15音乐,[BD]cctv15-音乐,[BD]cctv-15音乐,[BD]cctv15高清,[BD]cctv-15高清,[HD]cctv15,[HD]cctv-15,[HD]cctv-15 音乐,[HD]cctv15音乐
 CCTV16,[BD]cctv 16,[BD]cctv（hd）16,[BD]cctv（hd）16-4k,[BD]cctv16,[BD]cctv-16,[BD]cctv-16 hd,[BD]cctv16-4k,[BD]cctv-164k
 CCTV17,[BD]cctv 17,[BD]cctv（hd）17,[BD]cctv17,[BD]cctv-17,[BD]cctv-17 hd,[BD]cctv-17hd,[BD]cctv-17高清,[BD]cctv17-农业农村,[BD]cctv-17农业农村
-CCTV第一剧场,[BD]cctv（hd）第一剧场,[BD]cctv第一剧场
-CCTV风云足球,[BD]cctv（hd）风云足球,[BD]cctv风云足球
-CCTV风云音乐,[BD]cctv风云音乐
+第一剧场,[BD]cctv（hd）第一剧场,[BD]cctv第一剧场
+风云足球,[BD]cctv（hd）风云足球,[BD]cctv风云足球
+风云音乐,[BD]cctv风云音乐
 
 CCTV4欧洲,[BD]cctv4欧洲
 CCTV4美洲,[BD]cctv4国际美洲,[BD]cctv4美洲
@@ -31,18 +31,15 @@ CCTV4K,[HD]cctv4k
 
 
 
-CETV-1,[HD]cetv-1
-CETV-4,[HD]cetv-4
-cgtn,[HD]cgtn,[BD]cgtn
+CETV1,[HD]cetv-1,[BD]cetv1
+CETV4,[HD]cetv-4
+CGTN,[HD]cgtn,[BD]cgtn
 
 
 cdtv-4,[BD]
-cetv1,[BD]cetv1
 CHC影迷电影,[BD]chc影迷电影,[BD]chc高清电影,[BD]chc-高清电影,[HD]chc影迷电影
 CHC家庭影院,[BD]chc家庭影院,[BD]chc-家庭影院,[HD]chc家庭影院
 CHC动作电影,[BD]chc动作高清,[HD]chc动作电影,[BD]chc动作电影,[BD]chc-动作电影
-
-
 
 chc电影,[BD]chc电影
 sctv-4高清,[BD]sctv-4高清
@@ -524,7 +521,7 @@ sctv-4高清,[BD]sctv-4高清
 邢台综合频道,[HD]邢台综合频道
 amc电影,[BD]amc电影
 CN卡通,[BD]cn卡通
-tvbs歡樂,[BD]tvbs歡樂
+
 緯來電影,[BD]緯來電影
 緯來體育,[BD]緯來體育
 緯來日本,[HD]緯來日本
@@ -544,12 +541,8 @@ tvbs歡樂,[BD]tvbs歡樂
 台視新聞,[BD]台視新聞,[BD]台视新闻,[BD]台视新闻 hd,[BD]台视新闻台
 大立电视,[BD]大立电视
 大爱2台,[BD]大爱2台
-中視,[BD]中視
-中視新聞,[BD]中視新聞,[BD]中视新闻
-中視菁采,[BD]中視菁采
 中天新聞,[BD]中天新聞,[BD]中天新闻
 中天娛樂,[BD]中天娛樂
-中视菁采,[BD]中视菁采
 東森財經新聞,[BD]東森財經新聞
 東森新聞,[BD]東森新聞
 東森超視,[BD]東森超視
@@ -562,8 +555,7 @@ tvbs歡樂,[BD]tvbs歡樂
 博斯網球,[BD]博斯網球
 八大精彩,[BD]八大精彩
 八大綜合,[BD]八大綜合
-半島電視台,[BD]半島電視台
-半岛电视台,[BD]半岛电视台
+半岛电视台,[BD]半岛电视台,[BD]半島電視台
 半岛电视台英文,[BD]半岛电视台英文
 非凡商業,[BD]非凡商業
 非凡新聞,[BD]非凡新聞
@@ -602,40 +594,32 @@ tvbs歡樂,[BD]tvbs歡樂
 东森美洲卫视,[BD]东森美洲卫视
 东森电影,[BD]东森电影
 华语电视,[BD]华语电视
-华语电视3,[BD]华语电视3
-华语电视3台,[BD]华语电视3台
+华语电视3台,[BD]华语电视3台,[BD]华语电视3
 经典电影,[BD]经典电影
 amc电影,[HD]amc电影
 elta生活英语,[HD]elta生活英语
-tvbs欢乐,[HD]tvbs欢乐
-華視,[HD]華視
-華視新聞,[HD]華視新聞
+华视,[HD]華視
+华视新闻,[HD]華視新聞
 公视戏剧,[HD]公视戏剧
 好消息,[HD]好消息
 三立戏剧,[HD]三立戏剧
-人間衛視,[HD]人間衛視
-人间卫视,[HD]人间卫视
-大愛2,[HD]大愛2
-大立電視,[HD]大立電視
-大爱,[HD]大爱
-大爱1台,[HD]大爱1台
-大爱2,[HD]大爱2
-大爱2台,[HD]大爱2台
-智林體育,[HD]智林體育
-中視,[HD]中視
-中視經典,[HD]中視經典
-中视,[HD]中视
-中视经典,[HD]中视经典
+人间卫视,[HD]人间卫视,[HD]人間衛視
+大立电视,[HD]大立電視
+大爱1台,[HD]大爱1台,[HD]大爱
+大爱2台,[HD]大爱2台,[HD]大愛2
+智林体育,[HD]智林體育
+中视,[HD]中视,[HD]中視,[BD]中視
+中视新闻,[BD]中視新聞,[BD]中视新闻
+中视菁采,[BD]中視菁采,[BD]中视菁采
+中视经典,[HD]中视经典,[HD]中視經典
 八大戏剧,[HD]八大戏剧
 八大综合,[HD]八大综合
-半島電視台,[HD]半島電視台
-半岛电视,[HD]半岛电视
-民視台灣,[HD]民視台灣
-民視第一,[HD]民視第一
+半岛电视台,[HD]半岛电视,[HD]半島電視台
+民视台湾,[HD]民視台灣
+民视第一,[HD]民視第一
 民视,[HD]民视
-唯心電视,[HD]唯心電视
-唯心电视,[HD]唯心电视
-國會頻道2,[HD]國會頻道2
+唯心电视,[HD]唯心电视,[HD]唯心電视
+国会频道2,[HD]國會頻道2
 寰宇财经,[HD]寰宇财经
 东森新闻,[HD]东森新闻
 东森超视,[HD]东森超视
@@ -650,36 +634,30 @@ tvbs欢乐,[HD]tvbs欢乐
 龙华日韩,[HD]龙华日韩
 龙华戏剧,[HD]龙华戏剧
 j2,[BD]j2
-nowsports,[BD]nowsports
-now新聞,[BD]now新聞
-tvb 翡翠,[BD]tvb 翡翠
-tvbs亚洲,[BD]tvbs亚洲
-tvbs亚洲台,[BD]tvbs亚洲台
-tvbs亞洲,[BD]tvbs亞洲
-tvbs新聞,[BD]tvbs新聞
-tvbs新闻,[BD]tvbs新闻
+Nowsports,[BD]nowsports
+NOW新聞,[BD]now新聞
+翡翠台,[BD]翡翠台,[BD]tvb 翡翠翡翠,[BD]翡翠
+TVBS亚洲,[BD]tvbs亚洲,[BD]tvbs亞洲
+TVBS亚洲台,[BD]tvbs亚洲台
+TVBS新闻,[BD]tvbs新闻,[BD]tvbs新聞,[HD]tvbs新闻
+TVBS欢乐,[HD]tvbs欢乐,[BD]tvbs歡樂
 凤凰中文,[BD]凤凰中文
 凤凰卫视,[HD]凤凰卫视
 凤凰资讯,[BD]凤凰资讯
 国际,[BD]国际
 无线财经,[BD]无线财经
-明珠,[BD]明珠
-明珠台,[BD]明珠台
+明珠,[BD]明珠,[BD]明珠台,[HD]明珠
 星空卫视,[BD]星空卫视
 有线新闻,[BD]有线新闻
 林正英,[BD]林正英
 环球电视,[BD]环球电视
 电影01,[BD]电影01
 第一卫视,[BD]第一卫视
-翡翠,[BD]翡翠
-翡翠台,[BD]翡翠台
-tvbs新闻,[HD]tvbs新闻
 tvb星河,[HD]tvb星河
 凤凰中文,[HD]凤凰中文
 凤凰资讯,[HD]凤凰资讯
 凤凰香港,[HD]凤凰香港
 剧集,[HD]剧集
-明珠,[HD]明珠
 有线新,[HD]有线新
 有线新闻,[HD]有线新闻
 有线新闻台,[HD]有线新闻台
