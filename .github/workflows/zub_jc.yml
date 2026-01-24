@@ -1,8 +1,8 @@
 name: 检测组播
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # 每6h运行1次
+  # schedule:
+  #   - cron: '0 */6 * * *'  # 每6h运行1次
   workflow_dispatch:  # 允许手动触发
 
 permissions:
