@@ -17,7 +17,7 @@ import eventlet
 # ===============================
 
 # FOFA Cookie（可能需要更新）
-FOFA_COOKIE = "isRedirectLang=1; is_mobile=pc; __fcd=VEAXERTPPO0HYCOY4C20AE52F99D8B54; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1769348151; HMACCOUNT=549B767967039090; _ga=GA1.1.382555121.1769348151; befor_router=%2F; fofa_token=eyJhbGciOiJIUzUxMiIsImtpZCI6Ik5XWTVZakF4TVRkalltSTJNRFZsWXpRM05EWXdaakF3TURVMlkyWTNZemd3TUdRd1pUTmpZUT09IiwidHlwIjoiSldUIn0.eyJpZCI6MTE4MTAxMSwibWlkIjoxMDA3NDEyMzIsInVzZXJuYW1lIjoiT1VfeWFuZyIsInBhcmVudF9pZCI6MCwiZXhwIjoxNzY5OTU3MTU4fQ.8ZC6Yl9zMyfWcIUldWdW_GDg92Mr0xQiqA4j29lSO92bb1AeC-8uIdlRUWuDQIz-YB8rrFhvv1FTyLNS1IWMJQ; user=%7B%22id%22%3A1181011%2C%22mid%22%3A100741232%2C%22is_admin%22%3Afalse%2C%22username%22%3A%22OU_yang%22%2C%22nickname%22%3A%22OU_yang%22%2C%22email%22%3A%222856364053%40qq.com%22%2C%22avatar_medium%22%3A%22https%3A%2F%2Fnosec.org%2Fmissing.jpg%22%2C%22avatar_thumb%22%3A%22https%3A%2F%2Fnosec.org%2Fmissing.jpg%22%2C%22key%22%3A%229495b90e65813ae0e9188e6a5928d1f1%22%2C%22category%22%3A%22user%22%2C%22rank_avatar%22%3A%22%22%2C%22rank_level%22%3A0%2C%22rank_name%22%3A%22%E6%B3%A8%E5%86%8C%E7%94%A8%E6%88%B7%22%2C%22company_name%22%3A%22OU_yang%22%2C%22coins%22%3A0%2C%22can_pay_coins%22%3A0%2C%22fofa_point%22%3A0%2C%22credits%22%3A1%2C%22expiration%22%3A%22-%22%2C%22login_at%22%3A0%2C%22data_limit%22%3A%7B%22web_query%22%3A300%2C%22web_data%22%3A3000%2C%22api_query%22%3A0%2C%22api_data%22%3A0%2C%22data%22%3A-1%2C%22query%22%3A-1%7D%2C%22expiration_notice%22%3Afalse%2C%22remain_giveaway%22%3A1000%2C%22fpoint_upgrade%22%3Afalse%2C%22account_status%22%3A%22%22%2C%22parents_id%22%3A0%2C%22parents_email%22%3A%22%22%2C%22parents_fpoint%22%3A0%2C%22created_at%22%3A%222026-01-25%2000%3A00%3A00%22%7D; is_flag_login=1; baseShowChange=false; viewOneHundredData=false; _ga_9GWBD260K9=GS2.1.s1769352318$o2$g1$t1769354754$j60$l0$h0; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1769354755"
+FOFA_COOKIE = "isRedirectLang=1; is_mobile=pc; __fcd=VEAXERTPPO0HYCOY4C20AE52F99D8B54; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1769348151; HMACCOUNT=549B767967039090; _ga=GA1.1.382555121.1769348151; befor_router=%2F; fofa_token=eyJhbGciOiJIUzUxMiIsImtpZCI6Ik5XWTVZakF4TVRkalltSTJNRFZsWXpRM05EWXdaakF3TURVMlkyWTNZemd3TUdRd1pUTmpZUT09IiwidHlwIjoiSldUIn0.eyJpZCI6MTE4MTAxMSwibWlkIjoxMDA3NDEyMzIsInVzZXJuYW1lIjoiT1VfeWFuZyIsInBhcmVudF9pZCI6MCwiZXhwIjoxNzY5OTU3MTU4fQ.8ZC6Yl9zMyfWcIUldWdW_GDg92Mr0xQiqA4j29lSO92bb1AeC-8uIdlRUWuDQIz-YB8rrFhvv1FTyLNS1IWMJQ; user=%7B%22id%22%3A1181011%2C%22mid%22%3A100741232%2C%22is_admin%22%3Afalse%2C%22username%22%3A%22OU_yang%22%2C%22nickname%22%3A%22OU_yang%22%2C%22email%22%3A%222856364053%40qq.com%22%2C%22avatar_medium%22%3A%22https%3A%2F%2Fnosec.org%2Fmissing.jpg%22%2C%22avatar_thumb%22%3A%22https%3A%2F%2Fnosec.org%2Fmissing.jpg%22%2C%22key%22%3A%229495b90e65813ae0e9188e6a5928d1f1%22%2C%22category%22%3A%22user%22%2C%22rank_avatar%22%3A%22%22%2C%22rank_level%22%3A0%2C%22rank_name%22%3A%22%E6%B3%A8%E5%86%8C%E7%94%A8%E6%88%B7%22%2C%22company_name%22%3A%22OU_yang%22%2C%22coins%22%3A0%2C%22can_pay_coins%22%3A0%2C%22fofa_point%22%3A0%2C%22credits%22%3A1%2C%22expiration%22%3A%22-%22%2C%22login_at%22%3A0%2C%22data_limit%22%3A%7B%22web_query%22%3A300%2C%22web_data%22%3A3000%2C%22api_query%22%3A0%2C%22api_data%22%3A0%2C%22data%22%3A-1%2C%22query%22%3A-1%7D%2C%22expiration_notice%22%3Afalse%2C%22remain_giveaway%22%3A1000%2C%22fpoint_upgrade%22%3Afalse%2C%22account_status%22%3A%22%22%2C%22parents_id%22%3A0%2C%22parents_email%22%3A%22%22%2C%22parents_fpoint%22%3A0%2C%22created_at%22%3A%222026-01-25%2000%3A00%3A00%22%7D; is_flag_login=1; baseShowChange=false; viewOneHundredData=false; _ga_9GWBD260K9=GS2.1.s1769352318$o2$g1$t1769354754$j60$l0$h0; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1769521320"
 
 # 搜索关键词（修正省份名称）
 SEARCH_QUERIES = [
@@ -55,12 +55,12 @@ SEARCH_QUERIES = [
 ]
 
 # IP存储目录
-IP_DIR = "D:/github/TV-yjc/Hotel/ip"
+IP_DIR = "Hotel/ip"
 if not os.path.exists(IP_DIR):
     os.makedirs(IP_DIR)
 
 # 频道文件输出目录
-CHANNEL_DIR = "D:/github/TV-yjc/Hotel"
+CHANNEL_DIR = "Hotel"
 if not os.path.exists(CHANNEL_DIR):
     os.makedirs(CHANNEL_DIR)
 
@@ -217,7 +217,7 @@ CHANNEL_MAPPING = {
 }
 
 # 图标文件路径
-LOGO_FILE = "D:/github/TV-yjc/Hotel/logo.txt"
+LOGO_FILE = "Hotel/logo.txt"
 
 # ===============================
 # 工具函数
