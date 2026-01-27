@@ -19,7 +19,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install selenium requests futures eventlet
+        python -m pip install --upgrade pip
 
     - name: run iptvpy
       run: |
