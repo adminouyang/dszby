@@ -25,7 +25,7 @@ FOFA_COOKIE = "isRedirectLang=1; is_mobile=pc; __fcd=DQVA3CHUNOEWDZUY01EE1FAF708
 
 # 搜索关键词
 SEARCH_QUERIES = [
-    '"iptv/live/zh_cn.js" && country="CN"
+    '"iptv/live/zh_cn.js" && country="CN"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
