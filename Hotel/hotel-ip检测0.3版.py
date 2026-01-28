@@ -361,8 +361,8 @@ def encode_query(query):
 def generate_fofa_urls():
     """生成FOFA搜索URL"""
     urls = []
-    pages = 2
-    page_size = 20
+    pages = 1
+    page_size = 50
     
     for query in SEARCH_QUERIES:
         encoded_query = encode_query(query)
