@@ -95,8 +95,22 @@ USER_AGENTS = [
 # ===============================
 
 def detect_encoding(content):
-    """检测HTML内容的编码"""
-    # 尝试从meta标签检测编码
+    """检测HTML内容的编码 - 修复字节/字符串类型问题"""
+    # 如果内容是字节类型，先尝试解码为字符串
+    if isinstance(content, bytes):
+        # 尝试常见编码解码
+        encodings_to_try = ['utf-8', 'gbk', 'gb2312', 'iso-8859-1', 'big5']
+        for encoding in encodings_to_try:
+            try:
+                content = content.decode(encoding, errors='ignore')
+                break
+            except:
+                continue
+        else:
+            # 所有编码尝试失败，使用默认解码
+            content = content.decode('utf-8', errors='ignore')
+    
+    # 现在content确保是字符串类型
     encoding_patterns = [
         r'<meta[^>]*charset=["\']?([^"\'/>]+)',
         r'<meta[^>]*content=["\'][^"\'"]*charset=([^"\'"/>]+)',
@@ -107,28 +121,14 @@ def detect_encoding(content):
         match = re.search(pattern, content, re.IGNORECASE)
         if match:
             encoding = match.group(1).lower()
-            # 常见编码映射
             encoding_map = {
-                'utf-8': 'utf-8',
-                'gbk': 'gbk',
-                'gb2312': 'gb2312',
-                'iso-8859-1': 'iso-8859-1',
-                'big5': 'big5'
+                'utf-8': 'utf-8', 'gbk': 'gbk', 'gb2312': 'gb2312',
+                'iso-8859-1': 'iso-8859-1', 'big5': 'big5'
             }
             if encoding in encoding_map:
                 return encoding_map[encoding]
     
-    # 如果没有找到明确的编码声明，尝试常见编码
-    encodings_to_try = ['utf-8', 'gbk', 'gb2312', 'iso-8859-1', 'big5']
-    
-    for encoding in encodings_to_try:
-        try:
-            content.decode(encoding)
-            return encoding
-        except:
-            continue
-    
-    return 'utf-8'  # 默认使用UTF-8
+    return 'utf-8'
 
 def fix_html_encoding(response):
     """修复HTML响应编码"""
