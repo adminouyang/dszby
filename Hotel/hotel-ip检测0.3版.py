@@ -131,7 +131,7 @@ def detect_encoding(content):
     return 'utf-8'
 
 def fix_html_encoding(response):
-    """修复HTML响应编码"""
+    """修复HTML响应编码 - 修复版本"""
     try:
         # 首先尝试使用requests的自动检测
         if response.encoding:
@@ -141,21 +141,21 @@ def fix_html_encoding(response):
             except:
                 pass
         
-        # 如果自动检测失败，使用自定义编码检测
+        # 使用修复后的编码检测
         detected_encoding = detect_encoding(response.content)
         try:
             decoded_content = response.content.decode(detected_encoding, errors='ignore')
             return decoded_content
         except:
-            # 如果还是失败，使用replace模式忽略错误字符
+            # 回退方案
             decoded_content = response.content.decode('utf-8', errors='ignore')
             return decoded_content
             
     except Exception as e:
         print(f"❌ HTML编码修复失败: {e}")
-        # 最后尝试使用ISO-8859-1（不会失败）
+        # 最终回退
         return response.content.decode('iso-8859-1', errors='ignore')
-
+        
 def save_html_with_fixed_encoding(filename, content, original_encoding='utf-8'):
     """保存修复编码后的HTML内容"""
     try:
