@@ -25,37 +25,38 @@ FOFA_COOKIE = "isRedirectLang=1; is_mobile=pc; __fcd=DQVA3CHUNOEWDZUY01EE1FAF708
 
 # 搜索关键词
 SEARCH_QUERIES = [
-    '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Jiangsu"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Zhejiang"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Fujian"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Guangdong"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hunan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hubei"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Henan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hebei"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shandong"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shanxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shaanxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Sichuan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Chongqing"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Liaoning"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Jilin"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Heilongjiang"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Jiangxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Guangxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Yunnan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Guizhou"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Gansu"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Ningxia"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Qinghai"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Xinjiang"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Tianjin"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hainan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Neimenggu"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Xizang"',
+    '"iptv/live/zh_cn.js" && country="CN"
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Jiangsu"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Zhejiang"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Fujian"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Guangdong"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hunan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hubei"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Henan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hebei"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shandong"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shanxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shaanxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Sichuan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Chongqing"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Liaoning"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Jilin"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Heilongjiang"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Jiangxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Guangxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Yunnan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Guizhou"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Gansu"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Ningxia"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Qinghai"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Xinjiang"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Tianjin"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hainan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Neimenggu"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Xizang"',
 ]
 
 # IP存储目录
@@ -338,8 +339,8 @@ def encode_query(query):
 def generate_fofa_urls():
     """生成FOFA搜索URL"""
     urls = []
-    pages = 2
-    page_size = 20
+    pages = 5
+    page_size = 30
 
     for query in SEARCH_QUERIES:
         encoded_query = encode_query(query)
