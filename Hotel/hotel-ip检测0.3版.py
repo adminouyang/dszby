@@ -29,12 +29,12 @@ CONFIG_FILE = os.path.join(SCRIPT_DIR, "fofa_config.ini")
 COOKIE_FILE = os.path.join(SCRIPT_DIR, "cookie.txt")
 
 # IP存储目录
-IP_DIR = Hotel/ip"
+IP_DIR = "Hotel/ip"
 if not os.path.exists(IP_DIR):
     os.makedirs(IP_DIR)
 
 # 频道文件输出目录
-CHANNEL_DIR = Hotel"
+CHANNEL_DIR = "Hotel"
 if not os.path.exists(CHANNEL_DIR):
     os.makedirs(CHANNEL_DIR)
 
@@ -130,37 +130,38 @@ def get_fofa_auth():
 
 # 搜索关键词
 SEARCH_QUERIES = [
-    '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Jiangsu"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Zhejiang"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Fujian"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Guangdong"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hunan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hubei"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Henan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hebei"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shandong"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shanxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Shaanxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Sichuan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Chongqing"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Liaoning"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Jilin"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Heilongjiang"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Jiangxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Guangxi"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Yunnan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Guizhou"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Gansu"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Ningxia"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Qinghai"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Xinjiang"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Tianjin"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Hainan"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Neimenggu"',
-    '"iptv/live/zh_cn.js" && country="CN" && region="Xizang"',
+    '"iptv/live/zh_cn.js" && country="CN""',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Jiangsu"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Zhejiang"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Fujian"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Guangdong"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hunan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hubei"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Henan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hebei"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shandong"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shanxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Shaanxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Sichuan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Chongqing"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Liaoning"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Jilin"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Heilongjiang"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Jiangxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Guangxi"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Yunnan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Guizhou"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Gansu"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Ningxia"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Qinghai"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Xinjiang"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Tianjin"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Hainan"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Neimenggu"',
+    # '"iptv/live/zh_cn.js" && country="CN" && region="Xizang"',
 ]
 
 # 频道分类定义
