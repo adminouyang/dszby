@@ -130,7 +130,7 @@ def get_fofa_auth():
 
 # 搜索关键词
 SEARCH_QUERIES = [
-    '"iptv/live/zh_cn.js" && country="CN""',
+    '"iptv/live/zh_cn.js" && country="CN"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
@@ -429,7 +429,7 @@ def encode_query(query):
 def generate_fofa_urls():
     """生成FOFA搜索URL"""
     urls = []
-    pages = 2
+    pages = 1
     page_size = 20
     
     for query in SEARCH_QUERIES:
@@ -458,7 +458,7 @@ def crawl_fofa_with_api():
             time.sleep(random.uniform(1, 3))
             
             encoded_query = encode_query(query)
-            url = f"https://fofa.info/api/v1/search/all?qbase64={encoded_query}&page=1&size=100&fields=ip,port"
+            url = f"https://fofa.info/api/v1/search/all?qbase64={encoded_query}&page=1&size=50&fields=ip,port"
             
             headers = get_api_headers()
             response = requests.get(url, headers=headers, timeout=timeout)
