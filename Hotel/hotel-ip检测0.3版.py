@@ -1127,4 +1127,29 @@ def main():
     # 第一阶段：验证现有IP
     validate_existing_ips()
     
+    # 第二阶段：使用API获取新IP
+    print("\n🚀 开始使用FOFA API获取新IP...")
+    new_ips = crawl_fofa_with_api()
+    
+    if new_ips:
+        process_new_ips(new_ips)
+    else:
+        print("❌ 没有获取到新IP")
+        print("💡 可能的原因：")
+        print("  1. API KEY或邮箱错误")
+        print("  2. 账户余额不足")
+        print("  3. 请求过于频繁")
+        print("  4. 将使用现有IP文件生成频道")
+    
+    # 第三阶段：生成频道文件
+    print("\n📺 开始生成频道文件...")
+    generate_channel_files()
+    
+    print("\n" + "=" * 60)
+    print("🎉 任务完成！")
+    print("=" * 60)
+
+if __name__ == "__main__":
+    # 安装依赖: pip install requests eventlet configparser
+    main()
    
