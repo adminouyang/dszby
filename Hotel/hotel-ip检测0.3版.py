@@ -306,7 +306,7 @@ CHANNEL_MAPPING = {
 }
 
 # 图标文件路径
-LOGO_FILE = Hotel/logo.txt"
+LOGO_FILE = "Hotel/logo.txt"
 
 # ===============================
 # 工具函数
