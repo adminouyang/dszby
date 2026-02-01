@@ -435,7 +435,7 @@ def generate_fofa_urls():
     for query in SEARCH_QUERIES:
         encoded_query = encode_query(query)
         for page in range(1, pages + 1):
-            url = f"https://fofa.info/result?qbase64={encoded_query}&page={page}&page_size={page_size}"
+            url = f"https://gh-proxy.com/https://fofa.info/result?qbase64={encoded_query}&page={page}&page_size={page_size}"
             urls.append(url)
     
     return urls
