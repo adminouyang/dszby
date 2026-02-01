@@ -1176,11 +1176,11 @@ jobs:
            print("\n" + "=" * 60)
            print("🎉 任务完成！")
            print("=" * 60)
-
-        if __name__ == "__main__":
-            # 安装依赖: pip install requests eventlet configparser
-            main()
-        EOF
+       python << 'EOF'
+       if __name__ == "__main__":
+           # 安装依赖: pip install requests eventlet configparser
+           main()
+       EOF
     - name: 提交更新
       run: |
         cd $GITHUB_WORKSPACE
