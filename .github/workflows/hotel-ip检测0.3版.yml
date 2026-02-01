@@ -1177,7 +1177,7 @@ jobs:
            print("🎉 任务完成！")
            print("=" * 60)
 
-       if __name__ == "__main__":
+        if __name__ == "__main__":
             # 安装依赖: pip install requests eventlet configparser
             main()
         EOF
