@@ -130,7 +130,7 @@ def get_fofa_auth():
 
 # 搜索关键词
 SEARCH_QUERIES = [
-    'ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04i',
+    '"iptv/live/zh_cn.js" && country="CN"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Anhui"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Beijing"',
     # '"iptv/live/zh_cn.js" && country="CN" && region="Shanghai"',
