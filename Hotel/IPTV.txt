@@ -1,4 +1,4 @@
-2026/02/01 16:19更新,#genre#
+2026/02/01 23:02更新,#genre#
 
 央视频道,#genre#
 CCTV1,http://59.175.10.163:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
