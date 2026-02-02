@@ -1,4 +1,4 @@
-2026/02/02 06:20更新,#genre#
+2026/02/02 15:51更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -16571,6 +16571,15 @@ CCTV怀旧剧场,http://59.32.97.140:9901/tsfile/live/1006_1.m3u8?key=txiptv&pla
 CCTV风云剧场,http://59.32.97.140:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://59.32.97.140:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTVCCTV文化精品,http://59.32.97.140:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://125.42.149.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://125.42.150.32:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://123.52.110.159:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://125.42.149.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://125.42.150.32:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://125.42.149.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://125.42.150.32:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://125.42.149.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://125.42.150.32:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -29042,6 +29051,7 @@ SCTV康巴卫视,http://124.161.172.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 云南卫视,http://59.32.97.140:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://59.32.97.140:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://59.32.97.140:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://123.52.110.159:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -38228,3 +38238,5 @@ CGTN,http://59.32.97.140:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&auth
 国学,http://59.32.97.140:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 财富天下,http://59.32.97.140:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 老故事,http://59.32.97.140:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://59.32.97.140:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.13.235.238:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
