@@ -1,4 +1,1 @@
-CCTV8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
-贵州卫视,http://218.92.37.174:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏城市,http://218.92.37.174:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
