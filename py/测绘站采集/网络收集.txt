@@ -1,24 +1,61 @@
-2026/02/13 12:03更新,#genre#
-�影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+2026/02/15 12:09更新,#genre#
+�A,http://php.jdshipin.com/1905.php
+TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVBPlus源2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+翡翠台马来西亚版,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台源2,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台源4,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯源2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+天映,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+无线明珠英,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
+港澳B组,#genre#
+1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 TVB翡翠台1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+TVB,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+美亚电影-台湾,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 天映,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+无线Plus台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-港澳B组,#genre#
+港澳C组,#genre#
 AMC电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
 TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv073
@@ -48,14 +85,56 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv
 中视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
 猪哥亮歌厅秀,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv006
 
-港澳C组,#genre#
-AMC电影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=375
-华视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5007
-中视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5005
-中天新闻5,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5419
-猪哥亮歌厅秀,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=380
-
 港澳D组,#genre#
+AMC电影,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv017
+AMC电影,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv017
+KLT-靖天,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv063
+KLT-靖天,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv063
+NiceTV靖天欢乐,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv054
+NiceTV靖天欢乐,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv054
+TVBS精采,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv067
+TVBS精采,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv067
+TVBS台剧,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-live088
+TVBS综艺,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-live087
+TVBS,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv073
+采昌影剧,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv049
+采昌影剧,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv049
+华视,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv041
+华视,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv041
+华视,http://lzo.xh.sd/gt/lgz4G.php?id=of-4gtv-4gtv041
+靖天日本,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv047
+靖天日本,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv047
+靖天戏剧,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv058
+靖天戏剧,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv058
+靖天映画,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv055
+靖天映画,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv055
+靖天育乐,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv062
+靖天育乐,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv062
+靖天资讯,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv065
+靖天资讯,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv065
+靖天综合,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv046
+靖天综合,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv046
+靖洋戏剧,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv045
+靖洋戏剧,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv045
+龙华经典,http://lzo.xh.sd/gt/lgz4G.php?id=li-litv-longturn21
+龙华经典,http://lzo.xh.sd/gt/lgz4G.php?id=litv-longturn21
+龙华偶像,http://lzo.xh.sd/gt/lgz4G.php?id=li-litv-longturn12
+龙华偶像,http://lzo.xh.sd/gt/lgz4G.php?id=litv-longturn12
+龙华日韩,http://lzo.xh.sd/gt/lgz4G.php?id=li-litv-longturn11
+龙华日韩,http://lzo.xh.sd/gt/lgz4G.php?id=litv-longturn11
+龙华洋片,http://lzo.xh.sd/gt/lgz4G.php?id=li-litv-longturn02
+龙华洋片,http://lzo.xh.sd/gt/lgz4G.php?id=litv-longturn02
+台视,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv066
+台湾戏剧,http://lzo.xh.sd/gt/lgz4G.php?id=li-litv-longturn22
+台湾戏剧,http://lzo.xh.sd/gt/lgz4G.php?id=litv-longturn22
+影迷数位电影,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv011
+影迷数位电影,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv011
+中视,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv040
+中视,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv040
+中视,http://lzo.xh.sd/gt/lgz4G.php?id=of-4gtv-4gtv040
+猪哥亮歌厅秀,http://lzo.xh.sd/gt/lgz4G.php?id=4gtv-4gtv006
+
+港澳E组,#genre#
 AMC电影,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
 TVBS精采,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv067
 TVBS,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv073
@@ -79,86 +158,236 @@ TVBS,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv073
 中视,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv040
 猪哥亮歌厅秀,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv006
 
-港澳E组,#genre#
-AMC电影台,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1032.m3u8
-AXN,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1054.m3u8
-八大第一,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1043.m3u8
-八大综合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1019.m3u8
-东森财经,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1017.m3u8
-东森戏剧,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1042.m3u8
-东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1014.m3u8
-东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1014.m3u8
-东森幼幼,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1008.m3u8
-公视,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1201.m3u8
-华视,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1049.m3u8
-寰宇新闻,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1222.m3u8
-龙华电影台,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1245.m3u8
-龙华卡通台,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/custom29.m3u8
-龙华偶像剧,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1235.m3u8
-龙华日韩剧,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1010.m3u8
-龙华戏剧台,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1009.m3u8
-三立都会,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1020.m3u8
-三立台湾,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1021.m3u8
-三立新闻,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1016.m3u8
-纬来电影,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1183.m3u8
-纬来日本,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1026.m3u8
-纬来体育,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1011.m3u8
-纬来戏剧,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1186.m3u8
-纬来育乐,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1045.m3u8
-纬来综合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1044.m3u8
-纬来综合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1044.m3u8
-中视,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1048.m3u8
-中天综合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1022.m3u8
-
 港澳F组,#genre#
-NOW星影,http://bxtv.3a.ink/api.php?id=xingying
+AMC电影台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1032.m3u8
+AMC电影台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1032.m3u8
+AMC电影台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2023.m3u8
+AMC电影台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1032.m3u8
+AXN,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1054.m3u8
+AXN,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1054.m3u8
+八大第一,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1043.m3u8
+八大第一,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1043.m3u8
+八大戏剧,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1057.m3u8
+八大综合,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1019.m3u8
+八大综合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1019.m3u8
+八大综合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1019.m3u8
+东森财经,http://hk.mushui.tk/mqlive/live.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1017.m3u8
+东森财经,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1017.m3u8
+东森财经,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1017.m3u8
+东森财经,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1017.m3u8
+东森财经,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
+东森戏剧,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1042.m3u8
+东森戏剧,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1042.m3u8
+东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1014.m3u8
+东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1014.m3u8
+东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1014.m3u8
+东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1014.m3u8
+东森新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
+东森幼幼,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1008.m3u8
+东森幼幼,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1008.m3u8
+公视,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1201.m3u8
+公视,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1201.m3u8
+公视,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1201.m3u8
+公视3台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1113.m3u8
+公视台语台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1111.m3u8
+华视,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1049.m3u8
+华视,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1049.m3u8
+华视教育体育文化台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1119.m3u8
+华视新闻资讯台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
+寰宇新闻,http://hk.mushui.tk/mqlive/live.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1222.m3u8
+寰宇新闻,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
+寰宇新闻,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1222.m3u8
+寰宇新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1222.m3u8
+寰宇新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1222.m3u8
+龙华电影台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1245.m3u8
+龙华电影台,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1245.m3u8
+龙华电影台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1245.m3u8
+龙华卡通台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/custom29.m3u8
+龙华卡通台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/custom29.m3u8
+龙华偶像剧,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1235.m3u8
+龙华偶像剧,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1235.m3u8
+龙华日韩剧,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1010.m3u8
+龙华日韩剧,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1010.m3u8
+龙华戏剧台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1009.m3u8
+三立都会,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1020.m3u8
+三立都会,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1020.m3u8
+三立都会,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1020.m3u8
+三立台湾,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1021.m3u8
+三立台湾,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1021.m3u8
+三立台湾,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1061.m3u8
+三立台湾,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1021.m3u8
+三立新闻,http://hk.mushui.tk/mqlive/live.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1016.m3u8
+三立新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1016.m3u8
+三立新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1079.m3u8
+三立新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1016.m3u8
+台视,http://hk.mushui.tk/mqlive/live.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1047.m3u8
+台视,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1047.m3u8
+台视,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1047.m3u8
+台视财经台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1108.m3u8
+台视新闻台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1107.m3u8
+台视综合台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1109.m3u8
+纬来电影,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1183.m3u8
+纬来日本,http://hk.mushui.tk/mqlive/live.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1222.m3u8
+纬来日本,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1026.m3u8
+纬来日本,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1026.m3u8
+纬来日本,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1026.m3u8
+纬来体育,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1011.m3u8
+纬来体育,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2899.m3u8
+纬来体育,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1011.m3u8
+纬来戏剧,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1186.m3u8
+纬来戏剧,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1186.m3u8
+纬来育乐,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1045.m3u8
+纬来综合,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1044.m3u8
+纬来综合,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1044.m3u8
+纬来综合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1044.m3u8
+中视,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1048.m3u8
+中视,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1048.m3u8
+中视新闻台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1115.m3u8
+中天新闻,http://hk.mushui.tk/mqlive/live.php?ip=211.23.114.106&url=http://211.23.114.106:5003/live1675.m3u8
+中天新闻,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1015.m3u8
+中天新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1015.m3u8
+中天新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1015.m3u8
+中天新闻,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1015.m3u8
+中天娱乐,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1023.m3u8
+中天娱乐,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1023.m3u8
+中天娱乐,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1023.m3u8
+中天娱乐,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1023.m3u8
+中天综合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1022.m3u8
+中天综合,http://hk.mushui.tk/mqlive/live.php?ip=59.124.81.19&url=http://59.124.81.19:5003/live1390.m3u8
+中天综合,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1022.m3u8
+中天综合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1022.m3u8
+中天综合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1022.m3u8
+
+港澳G组,#genre#
+AXN,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGbmBDk7bHJmcaTJsaKl5V0ikWM65bNCGOCCLrR5_AqcCzxNXfVgDcseJ44uxP5cm2QQ3JEjMGE-vIFwjLVBx7T7yw3ZtV9OCxcZx4BVJaQyiAYeNflMa1TROCL_xAR32mWJ60bMfpZOk07Jx9miDoSgC2QyxMd6PHlvWEdNL_GPKJHp8oy05goywjx-BUZ-EpIqUqGugJ6rbc-5wqFMszGQ.m3u8?u=1757123819
+CTVBravo,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0894ZtIFipic883VyEiUPjZqi4BsZfN8COn25VPhk9drhpQBWhVCphflONmDQdx4-f5e3jYr-yBN1k6VK0_ZLqbNY0UMfrXwPkoELkx0HmlTmT2W4Kuw-8jgHdsGqtkzIKT3zsrrcF4R8vakh5wA-V4tl9C1Abh0nxEBCrNp4u18FTG_et2eOWSf5pk75cOA31Uwag8XuNKXT4Rw65PKGg.m3u8?u=1757123819
+EYE戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG7KtN7SKJCnT_s1F_iuLaYUBcu4aISWXgXKmgWo8UveqsXMEAlF2XzcuyvDLSLwAnVTb9bAuLv54vT9K76ND5pHTx8N9dwV3X90HmBiIk_CHm4Cy2WLKIMooYHXNKFb83PL35OscUNafqR6z-ZfgKQ-Mqfsqi_jkjJuHuR0-ZNMEmRQRBxMEtU55_LyenSovbQnLZqMEZJroQZhZYxvXqDQ.m3u8?u=1757123819
+EYETravel,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGQ6vtLZbCdLZuNy2MTGSyF2NG9DbyTAPq4MMlPfSP2-WpbLwHY07bq-TnNk2ZZbOfkDkXWmGSyL25PjeIRI4uWrcACuMp0CsDCn8SLWIusKhxruxBdQbvvuUYLws6-w-4ErX-2pM9FLzfRKqDVzUqqUGXOBenGlw48FNmwpbHNAgdftxra_ZVdn2iiD_NA0Ufp-FaC_ov8hAXNNM1MtAPOA.m3u8?u=1757123819
+NOW星影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
+NOW星影,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGhVMgvcDj9Zjw-sPQFlpEWsT7P4MeuXCq5CBl2xXVH0plQRaJVqrAFRx_umbqFxAXbCH7mVLoGbIXtqhgqvxsBlFiNtDKb1_rcgOX1OFZffTgyO1159LWCnJCgkxWLgb7ijysApWMxk0Z7hN7creSFyeNhuEfL_2QnaYIHzcxckSEnhXm-esmhHgFKNnLRlZ889UeWk4ifRCRC_v-YLEnnhyawumkCJ8q6KUfop8CJNA.m3u8?u=1757123819
+RTV,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGgVORsJsTyqPX3I9UH9bquH1uhJ90id5qi7QNk6Gu2vEm8dVaYRBHsGTuAMC8v6hymhGKoUh3p6b3yeRMDNYPwF-KNLLsHwSkxHHvQhO1JSJ7x3oksygnm5Df42BCKU81CJC0WGsKWjgo5MTdw-u79zTclYQ4raibZ2bFTpwf49sjBIays6UYjnk7cGpUnOzR.m3u8?u=1757123819
+TVB华语剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU4BMzxHRNUyQPNES-VxRbAi8Mxl-jPVl7FIWFVYl4YqRaRI01gYY24QQauu6KO1pG388Dp2P_0kqo6p5GWoNIC3s7K9ggIPcDP1CqCxvj7pt-amwcU8KuLwhUPhAPpPjmqW6iqOnd9pR0lQu5VFBJ2pxvrlkLb0IeGNT3sQpqG0K92N6JtJHMFZzXVGV5xEJ2x4y4Q9DpZguXR0ObYTDZYTGiTIaLjBlBICBqjjdtdS4.m3u8?u=1756878715
+TVB黄金翡翠,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUxxL1--UxpftQ8Xs-VxVuXRk0-_8P0MsgZvayqOumBh0XJAp8mmboompRTJU71LLI3z5fFMFL9Kggr7tAQKOIgsHPddS7WrZM6ZGrHZvUstV2XrHOpzTFIJ4tbMlZj-m81zGhlTcJTNOEURnfCEVu38kWxz59RskZ2Zbgy5qoszm_lpSgXQvhXz1j5twetwQ_4WAPk_s6SIQk0XdUpthjjTtSPxImgz3cj5BhQI1x4Sk.m3u8?u=1756878715
+TVB黄金华剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQjvVFeCCpIIGhOgkDXPg7MYz11wusehbcDMnpOMrO4J2kh0BiRIUI4PSi6oclQQxBEa3LWDPEk4alHzn4Ghlw7Ivy2lTajLtB0MZkQ024TiQMWZE-gnOi7sb615G5YK5_06gn4BIF1FZrDDmX-eioR2qBcLVRM2lcVafyXpNfAaMWuoZ4efura2yNaZy2YbITkWxN4XfxdFxzwV3rMZAdFXeAoMCwMCMdVUt8_zqJN0.m3u8?u=1756878715
+TVB星河（普）,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGLJoe0F6okc60ET3rShkoZqIeyNNG5KOxhdWdtjvbYG8F4U-wWYA1BE-W9B2EeWrau1O0oAU1c5x_uzIOtuvnDj7nlTwFvy8f0oPi5KiAlN7xS5c4GXHAl_qa6giM_R86lEFGn5E-Z7WoL2azgjDh_KYGhn_mj8Aqv0doPBqElSQ6qmHVO7CG4WMB4gQd84ChoED4n5kkxj8SutWQ6GJPGA.m3u8?u=1757123819
+TVB星河（粤）,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGspFNUH2ZdsLcu69qkc7tg6biWVDGdF7u4TZxLIwPoZ8_ekibWtqDv_KhUgFhwRy48VqfFVWhHoBJsuvT_zb_LkBEzD1qhR_gZzu1JQdcEKTqpjjiLTjGrDUP1XgL9Qk2BSb6X-LQdDe2k36C9DBw0V2Pd2SAUWGtLYOytpRe03cLVpYCIlstT1SqhQNbRfgIq2v-xKx-tHGHqmq08rVE0Q.m3u8?u=1757123819
+TVB亚洲剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHkx3P0nd7oLlaOTb26Owcb9JwFsteymxnl5kxNTLmALqKGSGzQpl3rIvjZ40qu_Iq3obYStJnslU-A6S0vyy2WUXmv_BOrddUzsh0Ar0KYZip5OiNvh9vztOmGGDPfOjKp1BsKyix2XaF3N-gfmmu_hIb3X7-efPoYCRlx6j2MkMPf-bIJRo33k028Xa-kLVQvJEfj-9m5QihYOD5hGWXUxXv61rF3WBURfr4AvOCh0.m3u8?u=1756878715
+TVB娱乐新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1KYfAUe3CIttX4wLcfg8FGY8KO8aHuyPSWw6ngTivaDx5mUaBqvY3dpNjpCdrB8zCtTc9dNUgyl8p6s7iw_PS2KgUiUB1QdMtryFkjncD1QMBH0Thwo_1CCkniwWvulJkwn_x78gfWKNXpoUsNBBJSzx9A5nqcVeOUJeakOCW3tHAqfPa8AH_SSuqr7hz8695ID26nyLoesxzMQgMMvJrA.m3u8?u=1756878715
+TVB中国Drama,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGRAvTpjaYvNTX-F6AVP9E3Xj1dZqbGiDTYXVfZ1ZPLtBDJdNFM6DgoBif0RIM1i7-Ht_2ejQXtsLOtHBk_SvG_ol7e86t2lijo3OVte8uTZRiELrXHuRXUgw52MjCKZ9x6HyRfjxA3_Db1OwkDNUkLvk9QDAz5so-CyXZHRApkkzNIyseUqvp-j-psF7ftfB3CdVLAiKeTXH1UwsZYPcaUDidUHEuNFLTccMB0ldFAzg.m3u8?u=1757123819
+TVBS新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG88Kajj-Nlzq2Zot4iKWlQMrAuzLyW1gwuPZdZwgSczu_lYcyeNjy5mUtBTnWn6_RRjW1ySvOTqeIRjdQ4RCRUZvBkv9CMpSXrBXKYMOmSTiotg-vnZvMD7xLElHC13Phuhd4C72MYflRppNCSMpd-kxOcFETromY1R2Jkf9402PC3kt8GqLErcewepsUmzq_VpMkZX5If9S3w9PGqRozug.m3u8?u=1757123819
+TVBS,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGs8ZkpFx0ZzZqjEHuo2Itiv4FbhPO_a9MawRpjPFqO5rLG_M9KndZoq4pTwzN5YsgEJPtQiQvRftrRQv-970k7XxHRiAgRok3wpXwm44QOjCzi60kzyU72IA4XMGV3cpwLP3xveQPxQs8SaUOt3zoRLh8D8S5aZxUG9GDpjglkotL29bTkgAdSn-34M4Uk3vu3wSJU4wqvjtykbUdu1UOSQ.m3u8?u=1757123819
+TVBSAsia,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGVt57rKA91gMrf-bJhbLHhORxjMbezgxtuQP1CJy8BlgWrQsMnAMIRkUtWgWP2XKAI9PzYHkyrAeKOUoJU8dewLeO1zTCFL4AjtFi1tQATzqSRSIyU7Zr4p7znWtYWYSLQNRatXo-vYQSkMBd0x5WGp5sZSePPjiEtNJqXxvbPoOlI2EMI0xtp31sTzKnNPW_jtBEkFyEfaQcFSgb2Fig3w.m3u8?u=1757123819
+TVBSG,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG3Mekckh-3LbxuLFJ2XGZaV5fojno7td5QPtJ_vkmcMBgX_gTGUv8mzVR556GdbxiD3pOYj37SSM14AqPZrCefM-5addA8xWf4t_MEphaSc7pQFu2UELZuwsaBZ5LIaBkoSaE3Tvgfg2E8KMcrPUPYl9JMIrSdDSJp4oMXNgg7bp3WRADhgfW_woVvBtcE83Z6fVNYyb3G-Wz-NOvE_PIVQ.m3u8?u=1757123819
+爱尔达影剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUROubjtkj6w5Ur6zxa5XTgiRGF7HQNlR0a58XFxBLkyM2ZIr-OffsOr_3XaKmabC1DpeaUi00YNFlD9pEHBjx4q_6wlzUsFxT8xL-iDp9jV1AtVokIOMMl5hx54NBJhlcTLT49hEV6xCWoVSaDifhLFLgwtl5MRYd5K4QZKWd8jN9hI5UdP8LpnBHcAA5EwStqGJqfdu8ZV2JKrUHHO9lgQ.m3u8?u=1756878715
+八大第一,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1YxjlrX-92DUe6YShxvRgIQtTHLv2QOcB5MR4jLfQYlLZwxrhTeOZGW_xVaqD6i8vi0oWzoVsnpshPw24xHISVu9Moe-E-35zRGT7cyj9FZH7wzuRrhwaOWYDHS0kxeguP_ItzcyaPbz9CS18ln9WQY5TXMmoQ95Kwrrfnh7fE5zbCadz4qrglUleUw8C2mCmdQ.m3u8?u=1756878715
+八大戏剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y6o-F4D_x9zYme5aZ36MHOmQrqlcvA2C72Rsb7ExBWNqb988uxXp6_RYrW4X71WoIOaU4p2IEF38G75yyYH8y9ffVGHgIzXJyVbnZZDD-qaZbQObnXlTjdOIO_DAKJrxfCTMm64JTX2K0txvdxtYllcUNSj2skXZaflLLZIo6TJb_x5KIvzUY2u1ofE3JwFhSw.m3u8?u=1756878715
+八大娱乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7aDNpAfjzaMAqe_OTcTj_JEmkQ2hnIWzZTYOHOyNIgzFL9azndzyljm8AUG4pul_bDMDeQWJTXZ191drTc3T3MKWEg-9G-IXLsktixPMciYZfBr6KZ8j9fZTcAjOtIs6GipyQqjPWTyMqCFz9kS7BVQEdnb-6mx82_w7pbv3wblz9M4uDkSTjJUefdcoU3-hw.m3u8?u=1756878715
+八大综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2NcDLAMny_Xqf9mK2_Uh-WAYfLzOQp23oOkbBKRdhO9NiXckoXfk1G_wolfUyEIHoo3IAS4NjGYYo1s8Yw3TBp47aePy1RsKMhXEFyNRUZ7iKwb82DRsB5PucOXjgJBsbNupM2t7bKDqeg3YaOfbGONJiBH6Yz94ZGQoFKO0uj5yRgDDMNfx2G5ZIqLEsW00Q.m3u8?u=1756878715
+大爱,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y0gxIGHwIFubsLTrar1hlaTO-nIvltudrZv4AeIOruPCK8_MkwW7cxX91DnU50YMERAmyiTyWWa0MgEuvHd6d1KRDhvm2tSpJ4JbTv0AyJw8-kp5gNr3Ixr1jS-eqb-7KElriYD4IDYzmi2qACVwgC-YuXSg_dFoCG3prjNeSKVQD-w-YFpAw1WkTkoiT3-6og.m3u8?u=1756878715
+东森电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
+凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
+凤凰中文,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u=1756878715
+凤凰资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715
+国天映电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUpZ57DWtawgDqgk9ACxtn4vc8tNib6vhl1tbTES2mBo7rzvlORZklfQoDf3IGAtc5S_NfcG_zouZVVY8S5UHcY0b2GzpO7Zlu9qXMQaZfiaaR1v4S52JJFHiNyFA2IL-K5KiW5pFkk5A4y2BkyI7t0cwiURlEP2GBA_0ozzKqEiC92DRXWRt5juxuSxGQZo44tsZQ11v9BFq_bQ9NH72Bsw.m3u8?u=1756878715
+华视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WC4PV84FqPDdX5aGM2Uh2jv-FMZaOh-fvBiGeHcVSKvxKgnMAi_TSEdkq0GlDYvX0YOdT20uyonxrctqHD39OFdSxYFPV2CjSgX96JI0rcx2D9VifDNgJK5yzYJhsqhdEY2Jhj9BGCrG1njMeRY7BBQtGKuN6F7M7tBZ3fJKeod86PqkIEbu8h1232KWo-ZXaQ.m3u8?u=1756878715
+华视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
+靖天,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHC9sBxHcfgJlyYnwj0znyxzoyTTGpDJNxFt_jxiRqm-jgu-AMPTtdHotRw4Uo8v0uzV7H3ofDIh29VNKGVCvNf65vjaLKW07PCwsguYRSCGtBQoGAmybcYUsEPAdiUelzrXg6yhkqAETiBB7lpbzJ5-Q2R_qibTFoRLTm4ZdJhRRuHxww8iMin8bJpSEiLEow.m3u8?u=1756878715
+靖天电影,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGIVyDKQo8T1Z8xtHpSfXA4fA4tgL-1rFuN-snXPx9X_KDrsevii14jKDMS3YANYIZ8ihJopj25iXEVrjhmOXDq__XF54OIJu1O22QXGArdsD4Pb9Nvp3djTVmDYgTjeeiinIBmKejjIkdQ89W7SeB77hjMql8Ro1qikrVIlGqZbLF1uMv5P6kPsW4BHjhVbCd7Ey3yY6TGbuo_tRosqpYAQ.m3u8?u=1757123819
+靖天欢乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigCBYeFFzqteJIIC2RbfTXM1JjHwgj6Cmll6SFbQ0vnvNVjKOxRyszoMmPNVvrSAi9mRPK1uD9Eb726yzYeCwt-DYBBcZVEjtHDfMeMr8Qb7qBFoDn9usD03lsuyZ5wcuaQE36U27zx678CXXSvFo5XlCqIRoOPzJVMbzTpvWyKN86i0uEJe7HFzZXlcPGa6imA.m3u8?u=1756878715
+靖天卡通,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigFE3Cb3NIds8HwpJYL4Df1IGw_GO-UD5yX_vmFmoCBKuGUcGU7AkGY-gsn_xBKyo11WofcZx9mKASlQFXf9dz7bkqkm7EiRP_0dDqlTI7UAbNd3EvXj15O48vP7Gt9tqwiGBcJN80yV-gSn6n_oTmB7l0Lb4sLiqudQvDFKL_yulGx4iwfDVpeyC4y4w8t4cQw.m3u8?u=1756878715
+靖天卡通,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGWJlLRt1b4T37ZPf21HM56IcRWV0PxWWK-B5caSnchfYq6RPTF1GNyA4XXa7St8pZwZidEO1Pu8hx2-3R6Zz78QBOwZgqx2xOzOCDj4tFb8iVBxX2p-FFNmUtTSHGVfGN7-Jk1DEGGIp0Ih5xm8DoCrHstIGFlbS_FsG-A1prCygjsTZcZz5CQNyN_TsqM7BRPHXeBqmKcvOgaSGtHInsRA.m3u8?u=1757123819
+靖天日本,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at1dmgazYnXXLRseS1DU1hPiPN9n6d4pTwnMEChCYLIagTSH9d1zK8dC5i53CtkR8AD5-h05kCFEvwxNkiqkT1C5apsvmkT5Hc2qN5KMgdBZQeS9ZtrcEgbyZstP8_or5_Ck-cYon2t3qIRvfh1d1s3AI0LLVGiDuPOSbaTPFi2b6yaJ4YBV72vhvXuc9ZKHN4Q.m3u8?u=1756878715
+靖天戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGSGiDeEPqIEJVx3us26kmLFaDm0KCC0qIr1Xros8zGoEPNHaFzXQLAiFBlbr6qSvMN5Z7yzGqNwECOOaVoXxtgc_IdHKrPb4FGmjpSksjE4YiIB4zSSExvnI840FbChvM6nuX5fTEJvHNzPV2pAMh-QJEfasmpz5B3lviCX9MWMdXaAo8lT1pjXYD8bOrAEL1aJIrb60F_VojtF9C3btvEQ.m3u8?u=1757123819
+靖天映画,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDXv1SfZ1MhhtLDvMdZtSidqO1YPWuu00ZaAz_b0Ihbb7Q51OkyNfs2D8NErQUB5-ZDHT6Zkkf4Hw28oxeuXPQzXaayE0zVcA9b4AcBPQgt0YsLk64wcv91Sa-Gk0nDTE_RP3qgYMpUNpTTTLiTGKOXSdye5XmlIjbipatd2QaTM1ylxLytNz7bMJPC2hDabAHqbtO9DZZ-4DuMvYfMNGbg.m3u8?u=1757123819
+靖天育乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigMuvtEsjj9l4OVpRn7h5PS-WU7a-qvAMtBhLSoiIKLAUAMYahSKRIkzTeyfqgdxt3afj6LFdaSXSdfr3IbtpmV21Q6NbWWlu3Bjn67wvSm9JC68PVqYuES6M9qRrtmxuG7Mi9SJtl6YU2_AoEuLX5rnsAEHZNisN1DdoPR871ftxqEp2wyiPk6UT_3l5BuJJ9g.m3u8?u=1756878715
+靖天资讯,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGM2y3SlUf0Jn3RYpDOU33JeOmPBVmIXe_3uAXnxWrKZmpbsIlPnCRTypdx2pep5e17Nnv3EqnzwddqCKzt3YjlU-iNjduYPY9de1LsPSjk5sDdhD78xbZLFx4VNT-VWQb9J7_zUSfpv9M0DMxyTHqO3cwNfOKwZBYFFsGJUhPLagNtJjeg-kpX3G3-lAgW1SPp9HmwdS9aO5Reyw2oXm0ag.m3u8?u=1757123819
+靖天综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigNLn-n7PIJt-T7HR4f-8wnQLNP-nmXUB9tHaUrN7Vt8ryE9MfKN5jNHw7eSBRkwkBWMCfQr87AN5JxL6R2abG9DbzdMgXS3jE4L-y8LWElT2fhXQAfMRG_Ebw-IDFd1n_TdM_OYH7c2zpHXtRrWDt70TYm_mQhwiXikF-r795LZyKpsqJ70A3V5PTdGedWD3WQ.m3u8?u=1756878715
+龙华动画,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGOjjS7yQJFVyemfn-2gsq92HF90wR57y19pjLD5Cwxv8oPc2QztHZT62aaI9uhDQZ62OdCw5YTljZWungrVsueTPwWuueO9EDUBCCXMBKBnfBLGVv0aPM_DWY8-AHRt6uafw0asGSRsSvEc04FQnt3ccmxYIWAkObaz4MW9Rt3568fCFMTm5qHu9R2Dtsuq_rktdT2lHobId9pM7g19l93Q.m3u8?u=1757123819
+龙华偶像,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGr4VSdt1edCSK6AyW6G5gnmF-EvpzEFkBMROqoF_h42FkN9nUlGhN1cRj7PVOmortwso0GOP0_bIiyUYzCJCh9qN8sqmr0mFZQvkZU30dP7PKHA4icV3YRElJptNTmE4QZ5G2tzc3eIM74qN_vQtezmXG7mzlajaqYuLSglEQaegLovrhd0kdn41K6hDZUme2ikD4QxZmdr-87pDHtg4UAQ.m3u8?u=1757123819
+龙华影剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUnx1SdKGszEQ77eUPMh3EhQxbqYlVBpue3Ww8qzlVlgiS2uU449orSQvNPbOh6wSSU-DfL7ZmzDUMIjgEpRLIA2w5ZhdFgm1QH5FB9kbd50YPhnPRVDZ5wDCCghC4g94hS85p_3sMzMBLM7G9nYCHn0lBMgaybd3kDrP5nyT3kIqnA1ebV80r2YsWc0tg2qvovLr5D0fFdDSHjrT_VbXOCA.m3u8?u=1756878715
+龙华影剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGr_ggCrU4URRCEhYRQstEJ-54db7wSO7WeRFwUfxGRb3faW0l6amwpW9joj8tDAsInmGvO6ICtI7NMNBACGj5xJ-QdJIDgSorCeOijom5hhHxdX9C_8e75i7tg9HP5jrQ6DNwN80yz5ab2wkVZ3qJ0eFkCSjM7wFtigmQBtn9q4bjr9w2YHHezySYK0bHj184KmJd1ausJ4ihhgoXy72aPQ.m3u8?u=1757123819
+龙祥时代,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQsilXP7R7vrttApoprEBxK2-CCx_u1xjj4vEJ8zFIkwHWUDaVl2dKP5coSwjRk2Y-UHVP8HVJ_37hr3se-l9pUXT1E-Rj5DOMkWvBgV5HGgZMOpuktjWCvborJtzZ5C2ccHGjN_1l0VlRsmcywUJAIKeXTQNekOltALBSsQjKzAQ7TvR7aXxqJDmVHYdAkaLhg.m3u8?u=1756878715
+美亚电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvaoH1tVvTVFB-LNSroC3TB4e-G4J0_FskZShxUWMyH9uJYaRIwHRL6wYYZgzP4oYzUwM9mAAb43rbcE6A101tSdQTvpkab3j4Rfqs5AJmVEZpyj3hn468_CHMpi85T1NLENmAikRcKWC1Jgov5RzFUviWRejdWA8Kb1M1t4kYy-GDX1UpfEsgVho2wBWM3k__5QVLPIkO8g-v0fMV8I04g.m3u8?u=1756878715
+美亚电影TW,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715
+民视台湾,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atxjlCPJKDYabw9dmEjHtnk0aJknzOqmYx2AbmaB0G-VmoDb4F7iTQUvMtaOzKMZVT09R74AS5INEi2-DGK1OGkkELsSQQaGqnREXpesS3HI9YwOK1OGCw9Z4HZH5ny6GKy7YYSBUyDBpBb7RzqGMjxFdBWsL6ysYTyS1GvmE4VGGqa3Yk74ZguEVvFGzsU-Fiw.m3u8?u=1756878715
+台视财经,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WHp7E-CuonjF010qAiPHigkGYqbKZsX6DZCE8_CI1L4hKLl68-9hU26UwhCeNzgR0KJGiymp6ThaU3VXxNUMFdQwsWE6lzsD8djD6Ycb33QBB5LdTVMFMVyzrFOGD9i65LnSc5my2O22T6hhJ5koRGnB13qft3b8fJdHTZOSnH8p5i2tJsReRYAFoKCkIKyAJQ.m3u8?u=1756878715
+台视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
+天映,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGzyTB4hi5K2pEvGBw8WuaZXsUWMlJn9wtwrdyyR3MAj_J9Zkbs7bVicJx0v4NfaaStOfqhvtOvqkc7aRmjwSblqpoUzeseyVfz0dnxzNjuxYrfQhPFZbQHVa2mFN-nccNUb3ylubgLbUFNQiRgmzfD1xx_p43aa511eDI5Xwen4rr5WizTkmpeLLK1olm75ieRPuf2kI6Q8Rg7U17CQXfTrZIuw1390VimFT-dApkk-c.m3u8?u=1757123819
+天映1,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGvhsjvErp-06K3g0gyf4m_Dr3QrO3jX1boGBO6VYivYXxNUfbhVF8kqDFuJ-BL7leFNLDA7LqtKp8NkT_8UcXGfuBogxvf9ml9VTX1f33KChBtuwSnnwvvBinG11ei4GGuu7kjmVrD79LFZVrNFXC8SBbZ6tpVIz1rurcMt0rPrRhlavmA5qKelJKWRffRQVr4uYWRXfjlW0N7YPnCx-Rk6NMGo6Fxz_g47IgDCtqeYU.m3u8?u=1757123819
+天映经典,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU2jH_Pl6VqGBxHA1IcsitfbKBR673Nu6KG0a27h2exhgUv2dW7fXLtqFZUFX8lctnx2REX0_9N_OE-shnVLOGaoO-0m2O1w2pp5b8sE82sD6hkqtKyg0TkrETYUXvMKUXU9iNc9OW1bvzOvWqkjmjiDdB0XQq2Ci1iWw5fVRe7CRLJb6cHe9q13apio-Vp0OMIvhoPz6HTwp5r3Ay9JXAsQ.m3u8?u=1756878715
+天映经典,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGm2__qUOGzGCukQtY2ilR797mPHZ6g-lFKX1cV3sAx0FgHx9wBss75ZT3wNOXjvCiYPH52ADPm8Rw5jf70BxNxDab_QGuIB_j-MaHjF3cT68cpuQTcw3r3GJCrlglwUiwADTHKgffYzZgyuD_jAjXJKkqf4iPbRnMNwplTJ2ThhvcIuKkZK0T5ZV-HR8gNqGPKDppMpK6gitsfzcocB7zLQ.m3u8?u=1757123819
+tvNMoviesC,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGv32jpFzpUtiLqAL7EQ3JNEST2U4w34DMZwX7vAjfAMC41yU40DED_cwdEWw4SE8fsei8QXEEX0mxh7PCx5FK6qHiuxbGKEpxPSx8OvsCj74Xtpyo5e9rkuS2OAnjUolrBH0bGs10Mb0tOcwn2zABpXbET8j8lcwrnJcjh7ed0qmRsMpD2HBOzcULRcWXsa3AeQZlFXalHUTslpy0sGzsiw.m3u8?u=1757123819
+纬来体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyovE6oGaC1PKnrjeaNxE0NJWRPjFClfaMW4SEVeYtCQbLhiB3WPPepMATAHfUOZlkgWW0vAwIwy5bOIXv7889x_3qi3OgGQuH6k8OeAX6HrFQ7vZhBVtcJo_VATmB9RIaebmQ4oLRHlUr70aUtC19_XJC64D_Vpx6ZcuklPt-WNukf0zYr47g_wBBsnqqxlE6w.m3u8?u=1756878715
+影迷数位电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rv_KIdlQpdfaweHkEsMjRcTyWTkmAIamofG98HLLqS4XBWxsniylZYS7fe6pFNArqo0f0J-Kj1AlMRca1-YhPCzr681fFSeWw3K7yUsq83pV0eQ8BGMO5u504Gx0F3i0idCNTAEgDMieA4qfFwX_KNxMlhj8nMzbVmMu_7fV8ErhRdhVn3_mV68JYghmp1pXq_oUrHHWxJP6NqDWale926w8.m3u8?u=1756878715
+中视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
+中天亚洲,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUX5IHWvb3zedf6expPkQooUiSNAtYY810Aw14IIVfQDk_l93y0Jw-Q_ImK3iBHZLkjVqP2FTqUR13YW5vCldIWHWxChU7x0grZzxS_b7Ta-K6E0nm85bxgn3lw7p0LdO2Q-wX3nuypLAkEiDKr5XadtekKtgSiXFXEEn9ukk1tDFfOlxxBpZIBTE0dM21Y_VCiGL37GMgUB839QQQCG6VFQ.m3u8?u=1756878715
+中天娱乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyt7kLfOPzB5rVNzHzS77_p3n-oskL3M1LR9_vBtF8KsmwE2CC6r0yLyygr7v4-nKazNZFHSlVMGultBxNsFwBA-s6eyjEbZhcKHS11YRjLKHsjgALUzl21xL6HodWfaGhCMUKtVFX8BwjO6kQH1vSWHm0j8JiEm7HET4bqsMTIfqVK8ojiRwnLYjPA3R4fK9Xw.m3u8?u=1756878715
+中天综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LytrDmp92dzgtBDDsBPYq9d1PkF-ehb8KGSKG97NUV5imHRRH3orv1cjbdNh-lAVApY2BBe6FN8LsYAyxf3YIqdRgxErAu_aSZcv5F4kajjPN_thS4oQUSFIQYKEP0g5A_0r8gpL0WcWVEEsYp2Iyn3Drel3fo5thvkdMmpFujakt_Z02jpSESQQ9wb9697MAHg.m3u8?u=1756878715
+
+港澳H组,#genre#
+AXN,http://pull-vivek.speedws.com/live/aaaAXN.flv
+TVB翡翠,http://pull-vivek.speedws.com/live/aaajade.flv
+TVB明珠,http://pull-vivek.speedws.com/live/aaamingzhu.flv
+TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
+天映,http://pull-vivek.speedws.com/live/aaatypd.flv
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+无线跑马,http://pull-vivek.speedws.com/live/aaapm18.flv
+无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
+
+港澳I组,#genre#
+NOW爆谷星影,http://bxtv.3a.ink/api.php?id=xingying
+TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
 凤凰卫视香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰卫视中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰卫视资讯,http://bxtv.3a.ink/api.php?id=fhzx
-美亚电影国流,http://bxtv.3a.ink/api.php?id=meiya
-无线翡翠,http://bxtv.3a.ink/api.php?id=fct
-无线明珠,http://bxtv.3a.ink/api.php?id=mz
-无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 
-港澳G组,#genre#
-TVB翡翠,https://o11.163189.xyz/stream/tvb/fct/
-TVB翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
-TVB华丽翡翠新加坡,https://o11.163189.xyz/stream/live/jade/
-TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
+港澳J组,#genre#
+TVB功夫,http://iptv.fr.to/test/Fmtv.php?id=AsiaAction
+八大娱乐,http://iptv.fr.to/test/Fmtv.php?id=bdyl
+东森洋片,http://iptv.fr.to/test/Fmtv.php?id=dsyp
+靖天戏剧,http://iptv.fr.to/test/Fmtv.php?id=jtxj
+龙华偶像,http://iptv.fr.to/test/Fmtv.php?id=lhox
+台湾华视,http://iptv.fr.to/test/Fmtv.php?id=CTSHD2
+台湾民视,http://iptv.fr.to/test/Fmtv.php?id=FTVHD
+台湾中视,http://iptv.fr.to/test/Fmtv.php?id=CTVHD
+纬来电影,http://iptv.fr.to/test/Fmtv.php?id=wldy
+纬来日本,http://iptv.fr.to/test/Fmtv.php?id=wljp
+纬来戏剧,http://iptv.fr.to/test/Fmtv.php?id=wlxj
+纬来综合,http://iptv.fr.to/test/Fmtv.php?id=wlzh
+
+港澳K组,#genre#
 TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB+,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB星河多音轨字幕,https://o11.163189.xyz/stream/live/tvbxh/
+TVB+多音轨字幕,https://o11.163189.xyz/stream/tvb/tvbp/
+翡翠台4K多音轨字幕,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台多音轨字幕,https://o11.163189.xyz/stream/tvb/fct/
+华丽翡翠台多音轨字幕,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台新加坡,https://o11.163189.xyz/stream/live/jade/
 天映,https://o11.163189.xyz/stream/live/typd/
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 
-港澳H组,#genre#
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVBJ1源1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVBPlus源2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-翡翠台马来西亚版,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-翡翠台源1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台源2,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台源3,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台源4,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯源2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+港澳L组,#genre#
+TVB星河,http://r.jdshipin.com/Voac4
+TVBPlus,http://r.jdshipin.com/Nr5jq
+TVBPlus,http://r.jdshipin.com/ndGgS
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/GeWKr
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+无线新闻,http://r.jdshipin.com/CkuBd
 
-港澳I组,#genre#
+港澳M组,#genre#
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -184,19 +413,15 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亚洲,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 
-港澳J组,#genre#
-TVBPlus,http://r.jdshipin.com/Nr5jq
-TVBPlus,http://r.jdshipin.com/ndGgS
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/GeWKr
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-无线新闻,http://r.jdshipin.com/CkuBd
+港澳N组,#genre#
+TVBS精采,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=346
+采昌影剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5104
+靖天日本,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5015
+靖洋戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4091
+无线新闻1,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=807
+中天新闻5,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5419
 
-港澳K组,#genre#
+港澳O组,#genre#
 TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 采昌影剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
@@ -224,7 +449,7 @@ TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 中视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 猪哥亮歌厅秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
 
-港澳L组,#genre#
+港澳P组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -239,14 +464,27 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳M组,#genre#
+港澳Q组,#genre#
+华视,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+寰宇财经,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+寰宇新闻台湾,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+中视,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+
+港澳R组,#genre#
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
