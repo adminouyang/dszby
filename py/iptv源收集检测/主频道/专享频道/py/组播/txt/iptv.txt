@@ -1,4 +1,4 @@
-2026/02/16 15:52更新,#genre#
+2026/02/17 06:23更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -17134,6 +17134,10 @@ CCTV5,http://36.40.236.231:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&au
 CCTV6,http://36.40.236.231:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://36.40.236.231:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://36.40.236.231:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://125.42.150.177:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://125.42.150.177:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://125.42.150.177:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://125.42.150.177:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -30232,6 +30236,10 @@ SCTV康巴卫视,http://124.161.172.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 深圳卫视,http://36.40.236.231:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://36.40.236.231:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://36.40.236.231:9999/tsfile/live/0136_2.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://125.42.150.177:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.42.150.177:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://125.42.150.177:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://125.42.150.177:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -39850,3 +39858,4 @@ CETV早期教育,http://59.32.97.72:9901/tsfile/live/1038_1.m3u8?key=txiptv&play
 CGTN,http://59.32.97.72:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西银铃,http://36.40.236.231:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西都市青春,http://36.40.236.231:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+嘉佳卡通,http://125.42.150.177:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
