@@ -1,12 +1,6 @@
-CCTV6,http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://218.3.138.25:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
-内蒙卫视,http://218.92.37.174:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://218.92.37.174:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://183.223.157.33:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://218.92.37.174:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://218.92.37.174:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://218.92.37.174:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.92.37.174:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://218.92.37.174:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+乐游纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
