@@ -119,7 +119,7 @@ jobs:
            os.makedirs(CHANNEL_DIR)
        
        # 测速阈值 (MB/s)
-       SPEED_THRESHOLD = 0.1
+       SPEED_THRESHOLD = 0.4
        
        # User-Agent列表
        USER_AGENTS = [
