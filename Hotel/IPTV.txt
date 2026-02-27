@@ -1,4 +1,4 @@
-2026/02/27 12:59,#genre#
+2026/02/27 23:32,#genre#
 
 央视频道,#genre#
 CCTV1,http://221.232.196.3:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
