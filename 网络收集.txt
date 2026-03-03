@@ -2,8 +2,8 @@
 番薯音乐,ttp://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
@@ -90,7 +90,13 @@ AMC电影,https://mao.ffmking888.dpdns.org/?id=YW1j6Zu75b2x5Yaw&auth=30234cedf87
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 
 频道,#genre#
-英超曼联VS水晶宫苏东黄健翔程思钦21:30,http://flvwspull2mgsplive.miguvideo.com:80/mglive/vivid04_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510451905&pid=2028597139&timestamp=20260301100221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=963283940&ParentNodeID=-99&assertID=7510451905&client_ip=218.28.233.106&SecurityKey=20260301100221&promotionId=&mvid=7510225617&mcid=500020&mpid=120000542244&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=34e4b1b6e52dd858c508519c0dd27672&sv=10004&ct=android
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.flv
+东森,https://t.freetv.fun/live/dong-sen-mei-zhou-1-1.m3u8
+东森,https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.flv
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
+华视,https://t.freetv.fun/live/hua-shi-2.ts
 
 频道,#genre#
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
@@ -375,25 +381,25 @@ AMC电影,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
 中视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv040/index.m3u8
 中视,https://4gtv.dxjc.pp.ua/4gtv-4gtv040/index.m3u8
 中视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv040/index.m3u8
-华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
-华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
-TVBS精采,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
+华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
+华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
 TVBS精采,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
+TVBS精采,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 TVBS台剧,https://4gtv.dxjc.pp.ua/4gtv-live088/index.m3u8
 TVBS综艺,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 寰宇新闻台湾,https://4gtv.dxjc.pp.ua/4gtv-4gtv156/index.m3u8
-寰宇新闻台湾,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv156/index.m3u8
 寰宇新闻台湾,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv156/index.m3u8
+寰宇新闻台湾,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv156/index.m3u8
 台视财经,https://4gtv.dxjc.pp.ua/4gtv-4gtv056/index.m3u8
-影迷数位电影,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
 影迷数位电影,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
+影迷数位电影,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
 影迷数位纪实,https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
 影迷数位纪实,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/li-litv-longturn22/index.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/litv-longturn22/index.m3u8
-猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
 猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/4gtv-4gtv006/index.m3u8
+猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
 
 频道,#genre#
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
@@ -525,19 +531,6 @@ TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
 台湾戏剧,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
 
 频道,#genre#
-台视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
-中视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv040
-华视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv041
-寰宇新闻台湾,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv156
-寰宇财经,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv158
-龙华卡通,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
-龙华日韩,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn11
-龙华偶像,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn12
-龙华经典,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn21
-龙华洋片,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn02
-台湾戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn22
-
-频道,#genre#
 台视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
 中视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 华视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
@@ -566,30 +559,43 @@ TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 猪哥亮歌厅秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
 
 频道,#genre#
-中视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv040/index.m3u8?proxy=true
+台视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
+中视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv040
+华视,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv041
+寰宇新闻台湾,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv156
+寰宇财经,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv158
+龙华卡通,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
+龙华日韩,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn11
+龙华偶像,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn12
+龙华经典,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn21
+龙华洋片,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn02
+台湾戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn22
+
+频道,#genre#
 中视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv040/index.m3u8?proxy=true
+中视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv040/index.m3u8?proxy=true
-华视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv041/index.m3u8?proxy=true
-TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv067/index.m3u8?proxy=true
+华视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv041/index.m3u8?proxy=true
 TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv067/index.m3u8?proxy=true
 TVBS台剧,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live088/index.m3u8?proxy=true
 TVBS综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live087/index.m3u8?proxy=true
-寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv156/index.m3u8?proxy=true
 台视财经,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv056/index.m3u8?proxy=true
-靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 影迷数位电影,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv011/index.m3u8?proxy=true
 影迷数位电影,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv011/index.m3u8?proxy=true
 影迷数位纪实,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-ftv15/index.m3u8?proxy=true
 影迷数位纪实,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-ftv15/index.m3u8?proxy=true
 台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-longturn22/index.m3u8?proxy=true
 台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-longturn22/index.m3u8?proxy=true
-猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv006/index.m3u8?proxy=true
+猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv006/index.m3u8?proxy=true
 
 频道,#genre#
 翡翠台,http://r.jdshipin.com/62WM7
